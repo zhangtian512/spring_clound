@@ -22,7 +22,7 @@ public class mainController {
         return "ribbon"+port;
     }
 
-    @RequestMapping(value="getmain",method = RequestMethod.GET)
+    @RequestMapping(value="getRibbon",method = RequestMethod.GET)
     public String getmain(){
         System.out.println("++++++");
         return ser.doMain();

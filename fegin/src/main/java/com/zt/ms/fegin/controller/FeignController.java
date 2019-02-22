@@ -11,7 +11,7 @@ public class FeignController {
     @Autowired
     private FeignService feignService;
 
-    @RequestMapping(value="getFeignMain")
+        @RequestMapping(value="getFeign")
     public String getFeignMain(){
         System.out.println("+++++++++");
         return feignService.getFeignMain();
