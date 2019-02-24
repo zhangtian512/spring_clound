@@ -13,7 +13,7 @@ public class mainService {
 
     @HystrixCommand(fallbackMethod = "HystrixFallBack")
     public String doMain(){
-        return restTemplate.getForObject("http://SERVICE-CONTROLLER/main",String.class);
+        return restTemplate.getForObject("http://controller/main",String.class);
     }
 
     public String HystrixFallBack(){
