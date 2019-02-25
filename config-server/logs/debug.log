@@ -1362,3 +1362,1021 @@ com.netflix.discovery.shared.transport.TransportException: Cannot execute reques
 [DEBUG]-[Thread-6]-2019-02-24 22:18:53:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 0 SECONDS
 [DEBUG]-[Thread-6]-2019-02-24 22:18:53:[ConnPoolByRoute.java:720]-Closing connections idle longer than 0 SECONDS
 [INFO]-[Thread-6]-2019-02-24 22:18:53:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
+[INFO]-[main]-2019-02-25 09:58:21:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[DEBUG]-[main]-2019-02-25 09:58:23:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:58:23:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:58:23:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 09:58:23:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 09:58:23:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 09:58:23:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 09:58:23:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 09:58:23:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 09:58:23:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 09:58:23:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[WARN]-[main]-2019-02-25 09:58:23:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 09:58:23:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 09:58:23:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 09:58:23:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[DEBUG]-[main]-2019-02-25 09:58:23:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:58:23:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:58:23:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 09:58:23:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 09:58:23:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 09:58:23:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 09:58:23:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 09:58:23:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 09:58:23:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 09:58:24:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[DEBUG]-[main]-2019-02-25 09:58:29:[TypeAnnotationAwareMetaDataProvider.java:191]-HV000188: Parameterized type with more than one argument is not supported: org.eclipse.jgit.api.TransportCommand<?, ?>
+[DEBUG]-[main]-2019-02-25 09:58:30:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:58:30:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:58:30:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 09:58:30:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 09:58:30:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 09:58:30:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 09:58:30:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 09:58:30:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 09:58:30:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 09:58:30:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 09:58:30:[StartupInfoLogger.java:57]-Started ConfigServerApplicationTests in 11.682 seconds (JVM running for 13.206)
+[INFO]-[Thread-6]-2019-02-25 09:58:30:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[Thread-6]-2019-02-25 09:58:31:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[Thread-6]-2019-02-25 09:58:31:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[Thread-6]-2019-02-25 09:58:31:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[Thread-6]-2019-02-25 09:58:31:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[INFO]-[Thread-6]-2019-02-25 09:58:32:[ConfigClusterResolver.java:43]-Resolving eureka endpoints via configuration
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[EndpointUtils.java:225]-The availability zone for the given region us-east-1 are [defaultZone]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[ConfigClusterResolver.java:90]-Config resolved to [AwsEndpoint{ serviceUrl='http://localhost:8881/eureka/', region='us-east-1', zone='defaultZone'}]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[ZoneAffinityClusterResolver.java:67]-Local zone=defaultZone; resolved to: [AwsEndpoint{ serviceUrl='http://localhost:8881/eureka/', region='us-east-1', zone='defaultZone'}]
+[INFO]-[Thread-6]-2019-02-25 09:58:32:[DiscoveryClient.java:929]-Disable delta property : false
+[INFO]-[Thread-6]-2019-02-25 09:58:32:[DiscoveryClient.java:930]-Single vip registry refresh property : null
+[INFO]-[Thread-6]-2019-02-25 09:58:32:[DiscoveryClient.java:931]-Force full registry fetch : false
+[INFO]-[Thread-6]-2019-02-25 09:58:32:[DiscoveryClient.java:932]-Application is null : false
+[INFO]-[Thread-6]-2019-02-25 09:58:32:[DiscoveryClient.java:933]-Registered Applications size is zero : true
+[INFO]-[Thread-6]-2019-02-25 09:58:32:[DiscoveryClient.java:935]-Application version is -1: true
+[INFO]-[Thread-6]-2019-02-25 09:58:32:[DiscoveryClient.java:1018]-Getting all instance registry info from the eureka server
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[SessionedEurekaHttpClient.java:67]-Ending a session and starting anew
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://localhost:8881/eureka/
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://localhost:8881, timeout = 5000
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[ConnPoolByRoute.java:347]-[{}->http://localhost:8881] total kept alive: 0, total issued: 0, total allocated: 0 out of 200
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[ConnPoolByRoute.java:522]-No free connections [{}->http://localhost:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[ConnPoolByRoute.java:366]-Available capacity: 50 out of 50 [{}->http://localhost:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[ConnPoolByRoute.java:548]-Creating new connection [{}->http://localhost:8881]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:32:[DefaultClientConnectionOperator.java:177]-Connecting to localhost:8881
+[DEBUG]-[Thread-6]-2019-02-25 09:58:33:[DefaultClientConnectionOperator.java:198]-Connect to localhost:8881 timed out. Connection will be retried using another IP address
+[DEBUG]-[Thread-6]-2019-02-25 09:58:33:[DefaultClientConnectionOperator.java:177]-Connecting to localhost:8881
+[DEBUG]-[Thread-6]-2019-02-25 09:58:34:[DefaultClientConnection.java:180]-Connection org.apache.http.impl.conn.DefaultClientConnection@57000af7 closed
+[DEBUG]-[Thread-6]-2019-02-25 09:58:34:[DefaultClientConnection.java:164]-Connection org.apache.http.impl.conn.DefaultClientConnection@57000af7 shut down
+[DEBUG]-[Thread-6]-2019-02-25 09:58:34:[ThreadSafeClientConnManager.java:288]-Released connection is not reusable.
+[DEBUG]-[Thread-6]-2019-02-25 09:58:34:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://localhost:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:34:[DefaultClientConnection.java:180]-Connection org.apache.http.impl.conn.DefaultClientConnection@57000af7 closed
+[DEBUG]-[Thread-6]-2019-02-25 09:58:34:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[Thread-6]-2019-02-25 09:58:34:[AbstractJerseyEurekaHttpClient.java:206]-Jersey HTTP GET http://localhost:8881/eureka//apps/?; statusCode=N/A
+[ERROR]-[Thread-6]-2019-02-25 09:58:34:[RedirectingEurekaHttpClient.java:83]-Request execution error
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187) ~[jersey-apache-client4-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.sun.jersey.api.client.Client.handle(Client.java:652) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource$Builder.get(WebResource.java:509) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplicationsInternal(AbstractJerseyEurekaHttpClient.java:194) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplications(AbstractJerseyEurekaHttpClient.java:165) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:119) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry(DiscoveryClient.java:1022) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:936) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.<init>(DiscoveryClient.java:412) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.<init>(DiscoveryClient.java:267) [eureka-client-1.7.0.jar:1.7.0]
+	at org.springframework.cloud.netflix.eureka.CloudEurekaClient.<init>(CloudEurekaClient.java:61) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration.eurekaClient(EurekaClientAutoConfiguration.java:261) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51.CGLIB$eurekaClient$0(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51$$FastClassBySpringCGLIB$$f5a6a72f.invoke(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228) [spring-core-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:358) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51.eurekaClient(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1178) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1072) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:511) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:481) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$2.getObject(AbstractBeanFactory.java:351) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.getBean(GenericScope.java:379) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope.get(GenericScope.java:181) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:346) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.target.SimpleBeanTargetSource.getTarget(SimpleBeanTargetSource.java:35) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:192) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at com.sun.proxy.$Proxy120.shutdown(Unknown Source) [?:?]
+	at org.springframework.cloud.netflix.eureka.serviceregistry.EurekaRegistration.close(EurekaRegistration.java:206) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:364) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:287) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:583) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:555) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:959) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:516) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:966) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1032) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1008) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext$2.run(AbstractApplicationContext.java:929) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method) ~[?:1.8.0_121]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_121]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_121]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_121]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_121]
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56) ~[httpclient-4.5.6.jar:4.5.6]
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173) ~[jersey-apache-client4-1.19.1.jar:1.19.1]
+	... 65 more
+[WARN]-[Thread-6]-2019-02-25 09:58:34:[RetryableEurekaHttpClient.java:129]-Request execution failed with message: java.net.ConnectException: Connection refused: connect
+[ERROR]-[Thread-6]-2019-02-25 09:58:34:[DiscoveryClient.java:943]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 - was unable to refresh its cache! status = Cannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:111) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry(DiscoveryClient.java:1022) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:936) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.<init>(DiscoveryClient.java:412) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.<init>(DiscoveryClient.java:267) [eureka-client-1.7.0.jar:1.7.0]
+	at org.springframework.cloud.netflix.eureka.CloudEurekaClient.<init>(CloudEurekaClient.java:61) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration.eurekaClient(EurekaClientAutoConfiguration.java:261) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51.CGLIB$eurekaClient$0(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51$$FastClassBySpringCGLIB$$f5a6a72f.invoke(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228) [spring-core-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:358) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51.eurekaClient(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1178) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1072) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:511) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:481) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$2.getObject(AbstractBeanFactory.java:351) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.getBean(GenericScope.java:379) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope.get(GenericScope.java:181) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:346) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.target.SimpleBeanTargetSource.getTarget(SimpleBeanTargetSource.java:35) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:192) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at com.sun.proxy.$Proxy120.shutdown(Unknown Source) [?:?]
+	at org.springframework.cloud.netflix.eureka.serviceregistry.EurekaRegistration.close(EurekaRegistration.java:206) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:364) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:287) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:583) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:555) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:959) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:516) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:966) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1032) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1008) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext$2.run(AbstractApplicationContext.java:929) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+[WARN]-[Thread-6]-2019-02-25 09:58:35:[DiscoveryClient.java:288]-Using default backup registry implementation which does not do anything.
+[INFO]-[Thread-6]-2019-02-25 09:58:35:[DiscoveryClient.java:1253]-Starting heartbeat executor: renew interval is: 30
+[INFO]-[Thread-6]-2019-02-25 09:58:35:[InstanceInfoReplicator.java:59]-InstanceInfoReplicator onDemand update allowed rate per min is 4
+[INFO]-[Thread-6]-2019-02-25 09:58:35:[DiscoveryClient.java:434]-Discovery Client initialized at timestamp 1551059915006 with initial instances count: 0
+[INFO]-[Thread-6]-2019-02-25 09:58:35:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
+[INFO]-[Thread-6]-2019-02-25 09:58:35:[DiscoveryClient.java:893]-Unregistering ...
+[DEBUG]-[Thread-6]-2019-02-25 09:58:35:[SessionedEurekaHttpClient.java:67]-Ending a session and starting anew
+[DEBUG]-[Thread-6]-2019-02-25 09:58:35:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://localhost:8881/eureka/
+[DEBUG]-[Thread-6]-2019-02-25 09:58:35:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://localhost:8881, timeout = 5000
+[DEBUG]-[Thread-6]-2019-02-25 09:58:35:[ConnPoolByRoute.java:347]-[{}->http://localhost:8881] total kept alive: 0, total issued: 0, total allocated: 0 out of 200
+[DEBUG]-[Thread-6]-2019-02-25 09:58:35:[ConnPoolByRoute.java:522]-No free connections [{}->http://localhost:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:35:[ConnPoolByRoute.java:366]-Available capacity: 50 out of 50 [{}->http://localhost:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:35:[ConnPoolByRoute.java:548]-Creating new connection [{}->http://localhost:8881]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:35:[DefaultClientConnectionOperator.java:177]-Connecting to localhost:8881
+[DEBUG]-[Thread-6]-2019-02-25 09:58:36:[DefaultClientConnectionOperator.java:198]-Connect to localhost:8881 timed out. Connection will be retried using another IP address
+[DEBUG]-[Thread-6]-2019-02-25 09:58:36:[DefaultClientConnectionOperator.java:177]-Connecting to localhost:8881
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[DefaultClientConnection.java:180]-Connection org.apache.http.impl.conn.DefaultClientConnection@27335ae2 closed
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[DefaultClientConnection.java:164]-Connection org.apache.http.impl.conn.DefaultClientConnection@27335ae2 shut down
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[ThreadSafeClientConnManager.java:288]-Released connection is not reusable.
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://localhost:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[DefaultClientConnection.java:180]-Connection org.apache.http.impl.conn.DefaultClientConnection@27335ae2 closed
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[AbstractJerseyEurekaHttpClient.java:80]-Jersey HTTP DELETE http://localhost:8881/eureka//apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1; statusCode=N/A
+[ERROR]-[Thread-6]-2019-02-25 09:58:37:[RedirectingEurekaHttpClient.java:83]-Request execution error
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187) ~[jersey-apache-client4-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.sun.jersey.api.client.Client.handle(Client.java:652) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource$Builder.delete(WebResource.java:591) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.cancel(AbstractJerseyEurekaHttpClient.java:76) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:119) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:894) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:872) [eureka-client-1.7.0.jar:1.7.0]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:215) [spring-core-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope$LockedScopedProxyFactoryBean.invoke(GenericScope.java:470) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:213) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at com.sun.proxy.$Proxy120.shutdown(Unknown Source) [?:?]
+	at org.springframework.cloud.netflix.eureka.serviceregistry.EurekaRegistration.close(EurekaRegistration.java:206) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:364) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:287) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:583) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:555) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:959) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:516) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:966) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1032) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1008) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext$2.run(AbstractApplicationContext.java:929) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method) ~[?:1.8.0_121]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_121]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_121]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_121]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_121]
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56) ~[httpclient-4.5.6.jar:4.5.6]
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173) ~[jersey-apache-client4-1.19.1.jar:1.19.1]
+	... 46 more
+[WARN]-[Thread-6]-2019-02-25 09:58:37:[RetryableEurekaHttpClient.java:129]-Request execution failed with message: java.net.ConnectException: Connection refused: connect
+[ERROR]-[Thread-6]-2019-02-25 09:58:37:[DiscoveryClient.java:897]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 - de-registration failedCannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:111) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:894) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:872) [eureka-client-1.7.0.jar:1.7.0]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:215) [spring-core-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope$LockedScopedProxyFactoryBean.invoke(GenericScope.java:470) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:213) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at com.sun.proxy.$Proxy120.shutdown(Unknown Source) [?:?]
+	at org.springframework.cloud.netflix.eureka.serviceregistry.EurekaRegistration.close(EurekaRegistration.java:206) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:364) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:287) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:583) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:555) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:959) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:516) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:966) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1032) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1008) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext$2.run(AbstractApplicationContext.java:929) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[ConnPoolByRoute.java:720]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 09:58:37:[ConnPoolByRoute.java:720]-Closing connections idle longer than 0 SECONDS
+[INFO]-[Thread-6]-2019-02-25 09:58:37:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
+[INFO]-[main]-2019-02-25 10:36:35:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[DEBUG]-[main]-2019-02-25 10:36:36:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:36:36:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:36:36:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:36:36:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:36:36:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 10:36:36:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:36:36:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:36:36:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:36:36:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:36:36:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[WARN]-[main]-2019-02-25 10:36:37:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:36:37:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 10:36:37:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:36:37:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[DEBUG]-[main]-2019-02-25 10:36:37:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:36:37:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:36:37:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:36:37:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:36:37:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 10:36:37:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:36:37:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:36:37:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:36:37:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:36:37:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[DEBUG]-[main]-2019-02-25 10:36:40:[TypeAnnotationAwareMetaDataProvider.java:191]-HV000188: Parameterized type with more than one argument is not supported: org.eclipse.jgit.api.TransportCommand<?, ?>
+[DEBUG]-[main]-2019-02-25 10:36:41:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:36:41:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:36:41:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:36:41:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:36:41:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 10:36:41:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:36:41:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:36:41:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:36:41:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:36:41:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 10:36:41:[StartupInfoLogger.java:57]-Started ConfigServerApplicationTests in 9.009 seconds (JVM running for 10.192)
+[INFO]-[Thread-6]-2019-02-25 10:36:41:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[Thread-6]-2019-02-25 10:36:42:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[Thread-6]-2019-02-25 10:36:42:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[Thread-6]-2019-02-25 10:36:42:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[Thread-6]-2019-02-25 10:36:42:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[INFO]-[Thread-6]-2019-02-25 10:36:42:[ConfigClusterResolver.java:43]-Resolving eureka endpoints via configuration
+[DEBUG]-[Thread-6]-2019-02-25 10:36:42:[EndpointUtils.java:225]-The availability zone for the given region us-east-1 are [defaultZone]
+[DEBUG]-[Thread-6]-2019-02-25 10:36:42:[ConfigClusterResolver.java:90]-Config resolved to [AwsEndpoint{ serviceUrl='http://47.106.206.255:8881/eureka/', region='us-east-1', zone='defaultZone'}]
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[ZoneAffinityClusterResolver.java:67]-Local zone=defaultZone; resolved to: [AwsEndpoint{ serviceUrl='http://47.106.206.255:8881/eureka/', region='us-east-1', zone='defaultZone'}]
+[INFO]-[Thread-6]-2019-02-25 10:36:43:[DiscoveryClient.java:929]-Disable delta property : false
+[INFO]-[Thread-6]-2019-02-25 10:36:43:[DiscoveryClient.java:930]-Single vip registry refresh property : null
+[INFO]-[Thread-6]-2019-02-25 10:36:43:[DiscoveryClient.java:931]-Force full registry fetch : false
+[INFO]-[Thread-6]-2019-02-25 10:36:43:[DiscoveryClient.java:932]-Application is null : false
+[INFO]-[Thread-6]-2019-02-25 10:36:43:[DiscoveryClient.java:933]-Registered Applications size is zero : true
+[INFO]-[Thread-6]-2019-02-25 10:36:43:[DiscoveryClient.java:935]-Application version is -1: true
+[INFO]-[Thread-6]-2019-02-25 10:36:43:[DiscoveryClient.java:1018]-Getting all instance registry info from the eureka server
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[SessionedEurekaHttpClient.java:67]-Ending a session and starting anew
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://47.106.206.255:8881/eureka/
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://47.106.206.255:8881, timeout = 5000
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[ConnPoolByRoute.java:347]-[{}->http://47.106.206.255:8881] total kept alive: 0, total issued: 0, total allocated: 0 out of 200
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[ConnPoolByRoute.java:522]-No free connections [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[ConnPoolByRoute.java:366]-Available capacity: 50 out of 50 [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[ConnPoolByRoute.java:548]-Creating new connection [{}->http://47.106.206.255:8881]
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnectionOperator.java:177]-Connecting to 47.106.206.255:8881
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[RequestAddCookies.java:123]-CookieSpec selected: default
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[RequestAuthCache.java:77]-Auth cache not set in the context
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[RequestTargetAuthentication.java:80]-Target auth state: UNCHALLENGED
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[RequestProxyAuthentication.java:89]-Proxy auth state: UNCHALLENGED
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultRequestDirector.java:682]-Attempt 1 to execute request
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnection.java:274]-Sending request: GET /eureka/apps/ HTTP/1.1
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[Wire.java:73]- >> "GET /eureka/apps/ HTTP/1.1[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[Wire.java:73]- >> "Accept: application/json[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[Wire.java:73]- >> "DiscoveryIdentity-Name: DefaultClient[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[Wire.java:73]- >> "DiscoveryIdentity-Version: 1.4[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[Wire.java:73]- >> "DiscoveryIdentity-Id: 172.20.10.2[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[Wire.java:73]- >> "Accept-Encoding: gzip[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[Wire.java:73]- >> "Host: 47.106.206.255:8881[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[Wire.java:73]- >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[Wire.java:73]- >> "User-Agent: Java-EurekaClient/v1.7.0[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnection.java:278]->> GET /eureka/apps/ HTTP/1.1
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnection.java:281]->> Accept: application/json
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Name: DefaultClient
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Version: 1.4
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Id: 172.20.10.2
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnection.java:281]->> Accept-Encoding: gzip
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnection.java:281]->> Host: 47.106.206.255:8881
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnection.java:281]->> Connection: Keep-Alive
+[DEBUG]-[Thread-6]-2019-02-25 10:36:43:[DefaultClientConnection.java:281]->> User-Agent: Java-EurekaClient/v1.7.0
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "HTTP/1.1 200 [\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "Content-Encoding: gzip[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "Content-Type: application/json[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "Content-Length: 80[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "Date: Mon, 25 Feb 2019 02:36:42 GMT[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:259]-Receiving response: HTTP/1.1 200 
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:262]-<< HTTP/1.1 200 
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:265]-<< Content-Encoding: gzip
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:265]-<< Content-Type: application/json
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:265]-<< Content-Length: 80
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:265]-<< Date: Mon, 25 Feb 2019 02:36:42 GMT
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultRequestDirector.java:509]-Connection can be kept alive indefinitely
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:87]- << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x0][0xab]VJ,([0xc8][0xc9]LN,[0xc9][0xcc][0xcf]+V[0xb2][0xaa]V*K-*[0x6][0xb1][0xe3][0xe3]SRsJ[0x12][0x95][0xac][0x94][0xc][0x95]t@[0xaa][0x80]"[0x19][0x89][0xc5][0x19][0xc9][0xf9])[0xa9]@A[0x88][0x18]L[0xa7][0x92]Utlm-[0x0][0x14][0x8]FBM[0x0][0x0][0x0]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ThreadSafeClientConnManager.java:286]-Released connection is reusable.
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:457]-Pooling connection [{}->http://47.106.206.255:8881][null]; keep alive indefinitely
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[AbstractJerseyEurekaHttpClient.java:206]-Jersey HTTP GET http://47.106.206.255:8881/eureka//apps/?; statusCode=200
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[RedirectingEurekaHttpClient.java:121]-Pinning to endpoint null
+[INFO]-[Thread-6]-2019-02-25 10:36:44:[DiscoveryClient.java:1027]-The response status is 200
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DiscoveryClient.java:1033]-Got full registry with apps hashcode 
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DiscoveryClient.java:1097]-The total number of all instances in the client now is 0
+[INFO]-[Thread-6]-2019-02-25 10:36:44:[DiscoveryClient.java:1253]-Starting heartbeat executor: renew interval is: 30
+[INFO]-[Thread-6]-2019-02-25 10:36:44:[InstanceInfoReplicator.java:59]-InstanceInfoReplicator onDemand update allowed rate per min is 4
+[INFO]-[Thread-6]-2019-02-25 10:36:44:[DiscoveryClient.java:434]-Discovery Client initialized at timestamp 1551062204388 with initial instances count: 0
+[INFO]-[Thread-6]-2019-02-25 10:36:44:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
+[INFO]-[Thread-6]-2019-02-25 10:36:44:[DiscoveryClient.java:893]-Unregistering ...
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[SessionedEurekaHttpClient.java:67]-Ending a session and starting anew
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://47.106.206.255:8881/eureka/
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://47.106.206.255:8881, timeout = 5000
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:347]-[{}->http://47.106.206.255:8881] total kept alive: 1, total issued: 0, total allocated: 1 out of 200
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:496]-Getting free connection [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultRequestDirector.java:431]-Stale connection check
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[RequestAddCookies.java:123]-CookieSpec selected: default
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[RequestAuthCache.java:77]-Auth cache not set in the context
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[RequestTargetAuthentication.java:80]-Target auth state: UNCHALLENGED
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[RequestProxyAuthentication.java:89]-Proxy auth state: UNCHALLENGED
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultRequestDirector.java:682]-Attempt 1 to execute request
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:274]-Sending request: DELETE /eureka/apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 HTTP/1.1
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- >> "DELETE /eureka/apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 HTTP/1.1[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- >> "DiscoveryIdentity-Name: DefaultClient[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- >> "DiscoveryIdentity-Version: 1.4[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- >> "DiscoveryIdentity-Id: 172.20.10.2[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- >> "Accept-Encoding: gzip[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- >> "Host: 47.106.206.255:8881[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- >> "User-Agent: Java-EurekaClient/v1.7.0[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:278]->> DELETE /eureka/apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 HTTP/1.1
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Name: DefaultClient
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Version: 1.4
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Id: 172.20.10.2
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:281]->> Accept-Encoding: gzip
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:281]->> Host: 47.106.206.255:8881
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:281]->> Connection: Keep-Alive
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:281]->> User-Agent: Java-EurekaClient/v1.7.0
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "HTTP/1.1 404 [\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "Content-Type: application/xml[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "Content-Length: 0[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "Date: Mon, 25 Feb 2019 02:36:42 GMT[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[Wire.java:73]- << "[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:259]-Receiving response: HTTP/1.1 404 
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:262]-<< HTTP/1.1 404 
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:265]-<< Content-Type: application/xml
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:265]-<< Content-Length: 0
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:265]-<< Date: Mon, 25 Feb 2019 02:36:42 GMT
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultRequestDirector.java:509]-Connection can be kept alive indefinitely
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ThreadSafeClientConnManager.java:286]-Released connection is reusable.
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:457]-Pooling connection [{}->http://47.106.206.255:8881][null]; keep alive indefinitely
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[AbstractJerseyEurekaHttpClient.java:80]-Jersey HTTP DELETE http://47.106.206.255:8881/eureka//apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1; statusCode=404
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[RedirectingEurekaHttpClient.java:121]-Pinning to endpoint null
+[INFO]-[Thread-6]-2019-02-25 10:36:44:[DiscoveryClient.java:895]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 - deregister  status: 404
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:720]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:731]-Closing connection last used @ Mon Feb 25 10:36:44 CST 2019
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:583]-Deleting connection [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[DefaultClientConnection.java:180]-Connection 0.0.0.0:57362<->47.106.206.255:8881 closed
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 10:36:44:[ConnPoolByRoute.java:720]-Closing connections idle longer than 0 SECONDS
+[INFO]-[Thread-6]-2019-02-25 10:36:44:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
+[INFO]-[main]-2019-02-25 11:09:28:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[DEBUG]-[main]-2019-02-25 11:09:29:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:09:29:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:09:29:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 11:09:29:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 11:09:29:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 11:09:29:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 11:09:29:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 11:09:29:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 11:09:29:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 11:09:29:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[WARN]-[main]-2019-02-25 11:09:30:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 11:09:30:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 11:09:30:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 11:09:30:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[DEBUG]-[main]-2019-02-25 11:09:30:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:09:30:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:09:30:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 11:09:30:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 11:09:30:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 11:09:30:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 11:09:30:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 11:09:30:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 11:09:30:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 11:09:30:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[DEBUG]-[main]-2019-02-25 11:09:33:[TypeAnnotationAwareMetaDataProvider.java:191]-HV000188: Parameterized type with more than one argument is not supported: org.eclipse.jgit.api.TransportCommand<?, ?>
+[DEBUG]-[main]-2019-02-25 11:09:34:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:09:34:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:09:34:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 11:09:34:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 11:09:34:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 11:09:34:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 11:09:34:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 11:09:34:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 11:09:34:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 11:09:34:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 11:09:34:[StartupInfoLogger.java:57]-Started ConfigServerApplicationTests in 9.84 seconds (JVM running for 11.085)
+[INFO]-[Thread-6]-2019-02-25 11:09:34:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[Thread-6]-2019-02-25 11:09:35:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[Thread-6]-2019-02-25 11:09:35:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[Thread-6]-2019-02-25 11:09:35:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[Thread-6]-2019-02-25 11:09:35:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[INFO]-[Thread-6]-2019-02-25 11:09:36:[ConfigClusterResolver.java:43]-Resolving eureka endpoints via configuration
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[EndpointUtils.java:225]-The availability zone for the given region us-east-1 are [defaultZone]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[ConfigClusterResolver.java:90]-Config resolved to [AwsEndpoint{ serviceUrl='http://47.106.206.255:8881/eureka/', region='us-east-1', zone='defaultZone'}]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[ZoneAffinityClusterResolver.java:67]-Local zone=defaultZone; resolved to: [AwsEndpoint{ serviceUrl='http://47.106.206.255:8881/eureka/', region='us-east-1', zone='defaultZone'}]
+[INFO]-[Thread-6]-2019-02-25 11:09:36:[DiscoveryClient.java:929]-Disable delta property : false
+[INFO]-[Thread-6]-2019-02-25 11:09:36:[DiscoveryClient.java:930]-Single vip registry refresh property : null
+[INFO]-[Thread-6]-2019-02-25 11:09:36:[DiscoveryClient.java:931]-Force full registry fetch : false
+[INFO]-[Thread-6]-2019-02-25 11:09:36:[DiscoveryClient.java:932]-Application is null : false
+[INFO]-[Thread-6]-2019-02-25 11:09:36:[DiscoveryClient.java:933]-Registered Applications size is zero : true
+[INFO]-[Thread-6]-2019-02-25 11:09:36:[DiscoveryClient.java:935]-Application version is -1: true
+[INFO]-[Thread-6]-2019-02-25 11:09:36:[DiscoveryClient.java:1018]-Getting all instance registry info from the eureka server
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[SessionedEurekaHttpClient.java:67]-Ending a session and starting anew
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://47.106.206.255:8881/eureka/
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://47.106.206.255:8881, timeout = 5000
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[ConnPoolByRoute.java:347]-[{}->http://47.106.206.255:8881] total kept alive: 0, total issued: 0, total allocated: 0 out of 200
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[ConnPoolByRoute.java:522]-No free connections [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[ConnPoolByRoute.java:366]-Available capacity: 50 out of 50 [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[ConnPoolByRoute.java:548]-Creating new connection [{}->http://47.106.206.255:8881]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:36:[DefaultClientConnectionOperator.java:177]-Connecting to 47.106.206.255:8881
+[DEBUG]-[Thread-6]-2019-02-25 11:09:37:[DefaultClientConnection.java:180]-Connection org.apache.http.impl.conn.DefaultClientConnection@3372ab60 closed
+[DEBUG]-[Thread-6]-2019-02-25 11:09:37:[DefaultClientConnection.java:164]-Connection org.apache.http.impl.conn.DefaultClientConnection@3372ab60 shut down
+[DEBUG]-[Thread-6]-2019-02-25 11:09:37:[ThreadSafeClientConnManager.java:288]-Released connection is not reusable.
+[DEBUG]-[Thread-6]-2019-02-25 11:09:37:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:37:[DefaultClientConnection.java:180]-Connection org.apache.http.impl.conn.DefaultClientConnection@3372ab60 closed
+[DEBUG]-[Thread-6]-2019-02-25 11:09:37:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[Thread-6]-2019-02-25 11:09:37:[AbstractJerseyEurekaHttpClient.java:206]-Jersey HTTP GET http://47.106.206.255:8881/eureka//apps/?; statusCode=N/A
+[ERROR]-[Thread-6]-2019-02-25 11:09:37:[RedirectingEurekaHttpClient.java:83]-Request execution error
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187) ~[jersey-apache-client4-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.sun.jersey.api.client.Client.handle(Client.java:652) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource$Builder.get(WebResource.java:509) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplicationsInternal(AbstractJerseyEurekaHttpClient.java:194) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplications(AbstractJerseyEurekaHttpClient.java:165) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:119) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry(DiscoveryClient.java:1022) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:936) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.<init>(DiscoveryClient.java:412) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.<init>(DiscoveryClient.java:267) [eureka-client-1.7.0.jar:1.7.0]
+	at org.springframework.cloud.netflix.eureka.CloudEurekaClient.<init>(CloudEurekaClient.java:61) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration.eurekaClient(EurekaClientAutoConfiguration.java:261) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51.CGLIB$eurekaClient$0(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51$$FastClassBySpringCGLIB$$f5a6a72f.invoke(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228) [spring-core-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:358) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51.eurekaClient(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1178) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1072) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:511) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:481) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$2.getObject(AbstractBeanFactory.java:351) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.getBean(GenericScope.java:379) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope.get(GenericScope.java:181) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:346) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.target.SimpleBeanTargetSource.getTarget(SimpleBeanTargetSource.java:35) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:192) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at com.sun.proxy.$Proxy120.shutdown(Unknown Source) [?:?]
+	at org.springframework.cloud.netflix.eureka.serviceregistry.EurekaRegistration.close(EurekaRegistration.java:206) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:364) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:287) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:583) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:555) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:959) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:516) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:966) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1032) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1008) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext$2.run(AbstractApplicationContext.java:929) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method) ~[?:1.8.0_121]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_121]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_121]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_121]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_121]
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56) ~[httpclient-4.5.6.jar:4.5.6]
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173) ~[jersey-apache-client4-1.19.1.jar:1.19.1]
+	... 65 more
+[WARN]-[Thread-6]-2019-02-25 11:09:38:[RetryableEurekaHttpClient.java:129]-Request execution failed with message: java.net.ConnectException: Connection refused: connect
+[ERROR]-[Thread-6]-2019-02-25 11:09:38:[DiscoveryClient.java:943]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 - was unable to refresh its cache! status = Cannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:111) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry(DiscoveryClient.java:1022) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:936) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.<init>(DiscoveryClient.java:412) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.<init>(DiscoveryClient.java:267) [eureka-client-1.7.0.jar:1.7.0]
+	at org.springframework.cloud.netflix.eureka.CloudEurekaClient.<init>(CloudEurekaClient.java:61) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration.eurekaClient(EurekaClientAutoConfiguration.java:261) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51.CGLIB$eurekaClient$0(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51$$FastClassBySpringCGLIB$$f5a6a72f.invoke(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228) [spring-core-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:358) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration$RefreshableEurekaClientConfiguration$$EnhancerBySpringCGLIB$$ce5daa51.eurekaClient(<generated>) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1178) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1072) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:511) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:481) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$2.getObject(AbstractBeanFactory.java:351) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.getBean(GenericScope.java:379) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope.get(GenericScope.java:181) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:346) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.target.SimpleBeanTargetSource.getTarget(SimpleBeanTargetSource.java:35) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:192) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at com.sun.proxy.$Proxy120.shutdown(Unknown Source) [?:?]
+	at org.springframework.cloud.netflix.eureka.serviceregistry.EurekaRegistration.close(EurekaRegistration.java:206) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:364) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:287) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:583) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:555) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:959) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:516) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:966) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1032) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1008) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext$2.run(AbstractApplicationContext.java:929) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+[WARN]-[Thread-6]-2019-02-25 11:09:38:[DiscoveryClient.java:288]-Using default backup registry implementation which does not do anything.
+[INFO]-[Thread-6]-2019-02-25 11:09:38:[DiscoveryClient.java:1253]-Starting heartbeat executor: renew interval is: 30
+[INFO]-[Thread-6]-2019-02-25 11:09:38:[InstanceInfoReplicator.java:59]-InstanceInfoReplicator onDemand update allowed rate per min is 4
+[INFO]-[Thread-6]-2019-02-25 11:09:38:[DiscoveryClient.java:434]-Discovery Client initialized at timestamp 1551064178056 with initial instances count: 0
+[INFO]-[Thread-6]-2019-02-25 11:09:38:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
+[INFO]-[Thread-6]-2019-02-25 11:09:38:[DiscoveryClient.java:893]-Unregistering ...
+[DEBUG]-[Thread-6]-2019-02-25 11:09:38:[SessionedEurekaHttpClient.java:67]-Ending a session and starting anew
+[DEBUG]-[Thread-6]-2019-02-25 11:09:38:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://47.106.206.255:8881/eureka/
+[DEBUG]-[Thread-6]-2019-02-25 11:09:38:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://47.106.206.255:8881, timeout = 5000
+[DEBUG]-[Thread-6]-2019-02-25 11:09:38:[ConnPoolByRoute.java:347]-[{}->http://47.106.206.255:8881] total kept alive: 0, total issued: 0, total allocated: 0 out of 200
+[DEBUG]-[Thread-6]-2019-02-25 11:09:38:[ConnPoolByRoute.java:522]-No free connections [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:38:[ConnPoolByRoute.java:366]-Available capacity: 50 out of 50 [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:38:[ConnPoolByRoute.java:548]-Creating new connection [{}->http://47.106.206.255:8881]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:38:[DefaultClientConnectionOperator.java:177]-Connecting to 47.106.206.255:8881
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[DefaultClientConnection.java:180]-Connection org.apache.http.impl.conn.DefaultClientConnection@22df6ac2 closed
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[DefaultClientConnection.java:164]-Connection org.apache.http.impl.conn.DefaultClientConnection@22df6ac2 shut down
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[ThreadSafeClientConnManager.java:288]-Released connection is not reusable.
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[DefaultClientConnection.java:180]-Connection org.apache.http.impl.conn.DefaultClientConnection@22df6ac2 closed
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[AbstractJerseyEurekaHttpClient.java:80]-Jersey HTTP DELETE http://47.106.206.255:8881/eureka//apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1; statusCode=N/A
+[ERROR]-[Thread-6]-2019-02-25 11:09:39:[RedirectingEurekaHttpClient.java:83]-Request execution error
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187) ~[jersey-apache-client4-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.sun.jersey.api.client.Client.handle(Client.java:652) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.sun.jersey.api.client.WebResource$Builder.delete(WebResource.java:591) ~[jersey-client-1.19.1.jar:1.19.1]
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.cancel(AbstractJerseyEurekaHttpClient.java:76) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:119) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:894) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:872) [eureka-client-1.7.0.jar:1.7.0]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:215) [spring-core-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope$LockedScopedProxyFactoryBean.invoke(GenericScope.java:470) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:213) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at com.sun.proxy.$Proxy120.shutdown(Unknown Source) [?:?]
+	at org.springframework.cloud.netflix.eureka.serviceregistry.EurekaRegistration.close(EurekaRegistration.java:206) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:364) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:287) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:583) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:555) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:959) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:516) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:966) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1032) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1008) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext$2.run(AbstractApplicationContext.java:929) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method) ~[?:1.8.0_121]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_121]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_121]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_121]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_121]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_121]
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56) ~[httpclient-4.5.6.jar:4.5.6]
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173) ~[jersey-apache-client4-1.19.1.jar:1.19.1]
+	... 46 more
+[WARN]-[Thread-6]-2019-02-25 11:09:39:[RetryableEurekaHttpClient.java:129]-Request execution failed with message: java.net.ConnectException: Connection refused: connect
+[ERROR]-[Thread-6]-2019-02-25 11:09:39:[DiscoveryClient.java:897]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 - de-registration failedCannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:111) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:894) [eureka-client-1.7.0.jar:1.7.0]
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:872) [eureka-client-1.7.0.jar:1.7.0]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:215) [spring-core-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.cloud.context.scope.GenericScope$LockedScopedProxyFactoryBean.invoke(GenericScope.java:470) [spring-cloud-context-1.3.0.RELEASE.jar:1.3.0.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:213) [spring-aop-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at com.sun.proxy.$Proxy120.shutdown(Unknown Source) [?:?]
+	at org.springframework.cloud.netflix.eureka.serviceregistry.EurekaRegistration.close(EurekaRegistration.java:206) [spring-cloud-netflix-eureka-client-1.4.0.RELEASE.jar:1.4.0.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_121]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:364) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:287) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:583) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:555) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:959) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:516) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:966) [spring-beans-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1032) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1008) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext$2.run(AbstractApplicationContext.java:929) [spring-context-4.3.22.RELEASE.jar:4.3.22.RELEASE]
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[ConnPoolByRoute.java:720]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 11:09:39:[ConnPoolByRoute.java:720]-Closing connections idle longer than 0 SECONDS
+[INFO]-[Thread-6]-2019-02-25 11:09:39:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
+[INFO]-[main]-2019-02-25 13:25:12:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[DEBUG]-[main]-2019-02-25 13:25:14:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 13:25:14:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 13:25:14:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 13:25:14:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 13:25:14:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 13:25:14:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 13:25:14:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 13:25:14:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 13:25:14:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 13:25:14:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[WARN]-[main]-2019-02-25 13:25:14:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 13:25:14:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 13:25:14:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 13:25:14:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[DEBUG]-[main]-2019-02-25 13:25:14:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 13:25:14:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 13:25:14:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 13:25:14:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 13:25:14:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 13:25:14:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 13:25:14:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 13:25:14:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 13:25:14:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 13:25:14:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[DEBUG]-[main]-2019-02-25 13:25:18:[TypeAnnotationAwareMetaDataProvider.java:191]-HV000188: Parameterized type with more than one argument is not supported: org.eclipse.jgit.api.TransportCommand<?, ?>
+[DEBUG]-[main]-2019-02-25 13:25:19:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 13:25:19:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 13:25:19:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 13:25:19:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 13:25:19:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy61
+[DEBUG]-[main]-2019-02-25 13:25:19:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 13:25:19:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 13:25:19:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 13:25:19:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 13:25:19:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 13:25:19:[StartupInfoLogger.java:57]-Started ConfigServerApplicationTests in 10.217 seconds (JVM running for 11.41)
+[INFO]-[Thread-6]-2019-02-25 13:25:19:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[Thread-6]-2019-02-25 13:25:20:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[Thread-6]-2019-02-25 13:25:20:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[Thread-6]-2019-02-25 13:25:20:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[Thread-6]-2019-02-25 13:25:20:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[INFO]-[Thread-6]-2019-02-25 13:25:21:[ConfigClusterResolver.java:43]-Resolving eureka endpoints via configuration
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[EndpointUtils.java:225]-The availability zone for the given region us-east-1 are [defaultZone]
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[ConfigClusterResolver.java:90]-Config resolved to [AwsEndpoint{ serviceUrl='http://47.106.206.255:8881/eureka/', region='us-east-1', zone='defaultZone'}]
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[ZoneAffinityClusterResolver.java:67]-Local zone=defaultZone; resolved to: [AwsEndpoint{ serviceUrl='http://47.106.206.255:8881/eureka/', region='us-east-1', zone='defaultZone'}]
+[INFO]-[Thread-6]-2019-02-25 13:25:21:[DiscoveryClient.java:929]-Disable delta property : false
+[INFO]-[Thread-6]-2019-02-25 13:25:21:[DiscoveryClient.java:930]-Single vip registry refresh property : null
+[INFO]-[Thread-6]-2019-02-25 13:25:21:[DiscoveryClient.java:931]-Force full registry fetch : false
+[INFO]-[Thread-6]-2019-02-25 13:25:21:[DiscoveryClient.java:932]-Application is null : false
+[INFO]-[Thread-6]-2019-02-25 13:25:21:[DiscoveryClient.java:933]-Registered Applications size is zero : true
+[INFO]-[Thread-6]-2019-02-25 13:25:21:[DiscoveryClient.java:935]-Application version is -1: true
+[INFO]-[Thread-6]-2019-02-25 13:25:21:[DiscoveryClient.java:1018]-Getting all instance registry info from the eureka server
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[SessionedEurekaHttpClient.java:67]-Ending a session and starting anew
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://47.106.206.255:8881/eureka/
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://47.106.206.255:8881, timeout = 5000
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[ConnPoolByRoute.java:347]-[{}->http://47.106.206.255:8881] total kept alive: 0, total issued: 0, total allocated: 0 out of 200
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[ConnPoolByRoute.java:522]-No free connections [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[ConnPoolByRoute.java:366]-Available capacity: 50 out of 50 [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[ConnPoolByRoute.java:548]-Creating new connection [{}->http://47.106.206.255:8881]
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnectionOperator.java:177]-Connecting to 47.106.206.255:8881
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[RequestAddCookies.java:123]-CookieSpec selected: default
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[RequestAuthCache.java:77]-Auth cache not set in the context
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[RequestTargetAuthentication.java:80]-Target auth state: UNCHALLENGED
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[RequestProxyAuthentication.java:89]-Proxy auth state: UNCHALLENGED
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultRequestDirector.java:682]-Attempt 1 to execute request
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnection.java:274]-Sending request: GET /eureka/apps/ HTTP/1.1
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[Wire.java:73]- >> "GET /eureka/apps/ HTTP/1.1[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[Wire.java:73]- >> "Accept: application/json[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[Wire.java:73]- >> "DiscoveryIdentity-Name: DefaultClient[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[Wire.java:73]- >> "DiscoveryIdentity-Version: 1.4[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[Wire.java:73]- >> "DiscoveryIdentity-Id: 172.20.10.2[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[Wire.java:73]- >> "Accept-Encoding: gzip[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[Wire.java:73]- >> "Host: 47.106.206.255:8881[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[Wire.java:73]- >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[Wire.java:73]- >> "User-Agent: Java-EurekaClient/v1.7.0[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnection.java:278]->> GET /eureka/apps/ HTTP/1.1
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnection.java:281]->> Accept: application/json
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Name: DefaultClient
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Version: 1.4
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Id: 172.20.10.2
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnection.java:281]->> Accept-Encoding: gzip
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnection.java:281]->> Host: 47.106.206.255:8881
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnection.java:281]->> Connection: Keep-Alive
+[DEBUG]-[Thread-6]-2019-02-25 13:25:21:[DefaultClientConnection.java:281]->> User-Agent: Java-EurekaClient/v1.7.0
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "HTTP/1.1 200 [\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "Content-Encoding: gzip[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "Content-Type: application/json[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "Content-Length: 532[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "Date: Mon, 25 Feb 2019 05:25:21 GMT[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:259]-Receiving response: HTTP/1.1 200 
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:262]-<< HTTP/1.1 200 
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:265]-<< Content-Encoding: gzip
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:265]-<< Content-Type: application/json
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:265]-<< Content-Length: 532
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:265]-<< Date: Mon, 25 Feb 2019 05:25:21 GMT
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultRequestDirector.java:509]-Connection can be kept alive indefinitely
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x0][0x8d]S]o[0xda]0[0x14][0xfd]/V[0x1f]iHB[0xf9][0xca]S+[0xc2]&4-[0xa0][0xb6]l[0xf][0xd3][0x84]\[0xfb][0x86]XK[0xec][0xc8]v[0xe8][0x10][0xe2][0xbf][0xf7]:nZ[0xd8][0xba][0xb5][0xe2][0x1]|[0xee][0xb9]_[0xe7][0x1e][0xe][0x84][0xd6]u)[0x18][0xb5]BIC[0x92][0x3][0xd9][0x81]6[0xee][0xf7]f[0xc3][0xa1][0xb4][0x94]$$"=[0xc7]B[0xa4][0xa0][0xa6]`[0x8a][0x3][0x82][0xeb][0xd5]&[0xda][0xf8]@[0x97]N[0x92][0x1f][0x7]"i[0xe5][0xc2][0xb3]e[0xf6]i[0xf1][0xf9]r6[0xcf][0xee][0xe7][0xb7]H[0x13][0xd2]X*[0x19][0xb4][0x9c][0xee][0xb1][0xe0][0xc8][0x8c][0xc7][0xf1][0x3][0x8b][0x87]<[0x7]6I[0x98][0x92][0xb9][0xd8]^2[0x90][0x16]t2[\r][0xc3][0x10]s[0xb]el[0xe6][0xcb][0x9e][0x92]}[0xf3][0xb7]z[0xd5]7[0x9c]k7[0xf8]8[0xe][0xa2]q[0x10][0x6][0x3]D[0xb1][0xa5]mL;9[0xbe][0x14][0xae][0xa9][0x5][0xe7] _[0xf1][0xec]K[0xb6][0xfc][0x9e]a[0xb0]V[0xda]:).H;B[0x8f]\[0x83][0xa4][0xf]%[0xb8]q[0xad]n[0x80][0x1c][0xb1][0x1c][0xb0]F[0xc3][0xea][0x95]yu58#[0xe6][0xb4]4-[0x93][0xa9]FZ[0xbd]w[0xcb]F=[0xc2][0xa9][0xa5][0xb3]v[0xbd][0x85][0xcc][0x95][0xcb][0xbd]f%5n[0x0][0xa6][0xaa]@[0x82][0xcd]K[0xf1];[0xc0][0xcd][0x4][0xc6][0x83]E'[0x15]>.R[0xc8]iS[0xda][0xf4][0xbc]D[0xaf][0xd3][0xfc][0xeb]~[0xf9](][0xc7][0x12][0xa8][0x81][0xae][0xbc][0x6][0x9][0x8f][0xb4]\8[0xfe][0xce]}[0xdf][0x1][0xc3]n[0x3]\[0x8b]7[0xba]=\[0x87]M[0x11][0xd3][0xb0][0x15][0xc6]z[0xfc]^T[0x80][0xed]+[0x14]9[0x1a][0xe][0xa3]p[0x1c]M&[0xa3][0x91][0xdb][0x13]'[0xb6][0xb7][0xbe][0xf0]_[0xa4]8[0x9a][0x8c][0x6]q[0xdc]#[0xb0][0x13][0xec][0x8f]2[0xa1][0x13]N#[0xe][0xeb][0xfa][0x1f][0xd5][0xa7][0xb8]@[0x5][0x96]:[0xa1][0xdc][0xfc][0x15][0x95]t[0xb][0x15][0xee][0x1b][0xf8][0xbb][0x90][0xd6][0x16]G[0xe7][0x8b][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "V[0x18][[0xeb][0x12][0xd1][0xc2][0xda]:[0xe9][0xf7][0xcf][0xec][0xe4][0x98][0xfd][0x97][0xdb][0x80]+[0xbc][0xa0][0x5][0xd0][0xd2][0x16][0xb3][0x2][0xd8][0xaf]w[0x12]<[0x13]Sv[0xde]u[0xf0]|[0xc9][0x13][0x1b][0x93][0xce],[0xdf][0xfe]G[0x11]f[0xa6][0x94][0xe6]B[0xa2][0xf2]r[0x9b][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:87]- << "[0xc3][0x9c]E[0xf7]w[0xa8][0x16][0xe8][0x17];y[0xe5][0xd7]5[0x8a][0x3][0xfc]D@r[0xa2][0xe0]0|[0xa6][0xa5]B[0xdb][0xfd][0xdb][0xa4]p4u[0x1f][0x9e]}[0xed][0xdc]s[0x93][0xa6][0xf3][0x94][0x1c][0xe2][0xe7][0xf8][0x4][0x9a][0x15][0xb7][0xc5][0x16][0x4][0x0][0x0]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ThreadSafeClientConnManager.java:286]-Released connection is reusable.
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:457]-Pooling connection [{}->http://47.106.206.255:8881][null]; keep alive indefinitely
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[AbstractJerseyEurekaHttpClient.java:206]-Jersey HTTP GET http://47.106.206.255:8881/eureka//apps/?; statusCode=200
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[RedirectingEurekaHttpClient.java:121]-Pinning to endpoint null
+[INFO]-[Thread-6]-2019-02-25 13:25:22:[DiscoveryClient.java:1027]-The response status is 200
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DiscoveryClient.java:1033]-Got full registry with apps hashcode UP_1_
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DiscoveryClient.java:1097]-The total number of all instances in the client now is 1
+[INFO]-[Thread-6]-2019-02-25 13:25:22:[DiscoveryClient.java:1253]-Starting heartbeat executor: renew interval is: 30
+[INFO]-[Thread-6]-2019-02-25 13:25:22:[InstanceInfoReplicator.java:59]-InstanceInfoReplicator onDemand update allowed rate per min is 4
+[INFO]-[Thread-6]-2019-02-25 13:25:22:[DiscoveryClient.java:434]-Discovery Client initialized at timestamp 1551072322190 with initial instances count: 1
+[INFO]-[Thread-6]-2019-02-25 13:25:22:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
+[INFO]-[Thread-6]-2019-02-25 13:25:22:[DiscoveryClient.java:893]-Unregistering ...
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[SessionedEurekaHttpClient.java:67]-Ending a session and starting anew
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://47.106.206.255:8881/eureka/
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://47.106.206.255:8881, timeout = 5000
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:347]-[{}->http://47.106.206.255:8881] total kept alive: 1, total issued: 0, total allocated: 1 out of 200
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:496]-Getting free connection [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultRequestDirector.java:431]-Stale connection check
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[RequestAddCookies.java:123]-CookieSpec selected: default
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[RequestAuthCache.java:77]-Auth cache not set in the context
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[RequestTargetAuthentication.java:80]-Target auth state: UNCHALLENGED
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[RequestProxyAuthentication.java:89]-Proxy auth state: UNCHALLENGED
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultRequestDirector.java:682]-Attempt 1 to execute request
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:274]-Sending request: DELETE /eureka/apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 HTTP/1.1
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- >> "DELETE /eureka/apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 HTTP/1.1[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- >> "DiscoveryIdentity-Name: DefaultClient[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- >> "DiscoveryIdentity-Version: 1.4[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- >> "DiscoveryIdentity-Id: 172.20.10.2[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- >> "Accept-Encoding: gzip[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- >> "Host: 47.106.206.255:8881[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- >> "User-Agent: Java-EurekaClient/v1.7.0[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:278]->> DELETE /eureka/apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 HTTP/1.1
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Name: DefaultClient
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Version: 1.4
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Id: 172.20.10.2
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:281]->> Accept-Encoding: gzip
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:281]->> Host: 47.106.206.255:8881
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:281]->> Connection: Keep-Alive
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:281]->> User-Agent: Java-EurekaClient/v1.7.0
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "HTTP/1.1 404 [\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "Content-Type: application/xml[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "Content-Length: 0[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "Date: Mon, 25 Feb 2019 05:25:21 GMT[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[Wire.java:73]- << "[\r][\n]"
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:259]-Receiving response: HTTP/1.1 404 
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:262]-<< HTTP/1.1 404 
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:265]-<< Content-Type: application/xml
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:265]-<< Content-Length: 0
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:265]-<< Date: Mon, 25 Feb 2019 05:25:21 GMT
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultRequestDirector.java:509]-Connection can be kept alive indefinitely
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ThreadSafeClientConnManager.java:286]-Released connection is reusable.
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:457]-Pooling connection [{}->http://47.106.206.255:8881][null]; keep alive indefinitely
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[AbstractJerseyEurekaHttpClient.java:80]-Jersey HTTP DELETE http://47.106.206.255:8881/eureka//apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1; statusCode=404
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[RedirectingEurekaHttpClient.java:121]-Pinning to endpoint null
+[INFO]-[Thread-6]-2019-02-25 13:25:22:[DiscoveryClient.java:895]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:-1 - deregister  status: 404
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:720]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:731]-Closing connection last used @ Mon Feb 25 13:25:22 CST 2019
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:583]-Deleting connection [{}->http://47.106.206.255:8881][null]
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[DefaultClientConnection.java:180]-Connection 0.0.0.0:62061<->47.106.206.255:8881 closed
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Thread-6]-2019-02-25 13:25:22:[ConnPoolByRoute.java:720]-Closing connections idle longer than 0 SECONDS
+[INFO]-[Thread-6]-2019-02-25 13:25:22:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient

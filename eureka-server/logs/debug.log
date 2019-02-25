@@ -1036,3 +1036,771 @@ com.netflix.discovery.shared.transport.TransportException: Cannot execute reques
 [INFO]-[Thread-12]-2019-02-24 22:17:39:[DefaultEurekaServerContext.java:75]-Shut down
 [INFO]-[Thread-12]-2019-02-24 22:17:39:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
 [INFO]-[Thread-12]-2019-02-24 22:17:39:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
+[INFO]-[main]-2019-02-25 09:57:43:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[DEBUG]-[main]-2019-02-25 09:57:45:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:57:45:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:57:45:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 09:57:45:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 09:57:45:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+[DEBUG]-[main]-2019-02-25 09:57:45:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 09:57:45:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 09:57:45:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 09:57:45:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 09:57:45:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[WARN]-[main]-2019-02-25 09:57:45:[ArchaiusAutoConfiguration.java:148]-No spring.application.name found, defaulting to 'application'
+[WARN]-[main]-2019-02-25 09:57:45:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 09:57:45:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 09:57:45:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 09:57:45:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[DEBUG]-[main]-2019-02-25 09:57:45:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:57:45:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:57:45:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 09:57:45:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 09:57:45:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+[DEBUG]-[main]-2019-02-25 09:57:45:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 09:57:45:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 09:57:45:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 09:57:45:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 09:57:45:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 09:57:50:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[main]-2019-02-25 09:57:50:[DiscoveryClient.java:350]-Client configured to neither register nor query for data.
+[INFO]-[main]-2019-02-25 09:57:50:[DiscoveryClient.java:363]-Discovery Client initialized at timestamp 1551059870520 with initial instances count: 0
+[INFO]-[main]-2019-02-25 09:57:50:[DefaultEurekaServerContext.java:63]-Initializing ...
+[DEBUG]-[main]-2019-02-25 09:57:50:[EndpointUtils.java:183]-The availability zone for the given region us-east-1 are [defaultZone]
+[INFO]-[main]-2019-02-25 09:57:50:[PeerEurekaNodes.java:188]-Adding new peer nodes [http://localhost:-1/eureka/]
+[INFO]-[main]-2019-02-25 09:57:52:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 09:57:52:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 09:57:52:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[main]-2019-02-25 09:57:52:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[DEBUG]-[main]-2019-02-25 09:57:52:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://localhost:-1/eureka/
+[INFO]-[main]-2019-02-25 09:57:52:[PeerEurekaNodes.java:110]-Replica node URL:  http://localhost:-1/eureka/
+[INFO]-[main]-2019-02-25 09:57:52:[AbstractInstanceRegistry.java:152]-Finished initializing remote region registries. All known remote regions: []
+[INFO]-[main]-2019-02-25 09:57:52:[DefaultEurekaServerContext.java:66]-Initialized
+[DEBUG]-[main]-2019-02-25 09:57:53:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:57:53:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 09:57:53:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 09:57:53:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 09:57:53:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+[DEBUG]-[main]-2019-02-25 09:57:53:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 09:57:53:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 09:57:53:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 09:57:53:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 09:57:53:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[Thread-11]-2019-02-25 09:57:53:[PeerAwareInstanceRegistryImpl.java:242]-Got 1 instances from neighboring DS node
+[INFO]-[Thread-11]-2019-02-25 09:57:53:[PeerAwareInstanceRegistryImpl.java:243]-Renew threshold is: 1
+[INFO]-[Thread-11]-2019-02-25 09:57:53:[PeerAwareInstanceRegistryImpl.java:254]-Changing status to UP
+[INFO]-[main]-2019-02-25 09:57:53:[StartupInfoLogger.java:57]-Started EurekaServerApplicationTests in 12.537 seconds (JVM running for 13.939)
+[INFO]-[Thread-12]-2019-02-25 09:57:53:[DefaultEurekaServerContext.java:72]-Shutting down ...
+[INFO]-[Thread-12]-2019-02-25 09:57:53:[DefaultEurekaServerContext.java:75]-Shut down
+[INFO]-[Thread-12]-2019-02-25 09:57:53:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
+[INFO]-[Thread-12]-2019-02-25 09:57:53:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
+[INFO]-[main]-2019-02-25 10:02:19:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[DEBUG]-[main]-2019-02-25 10:02:20:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:20:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:20:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:02:20:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:02:20:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy44
+[DEBUG]-[main]-2019-02-25 10:02:20:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:02:20:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:02:20:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:02:20:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:02:20:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 10:02:20:[DirectJDKLog.java:180]-Initializing ProtocolHandler ["http-nio-8881"]
+[INFO]-[main]-2019-02-25 10:02:20:[DirectJDKLog.java:180]-Starting service [Tomcat]
+[INFO]-[main]-2019-02-25 10:02:20:[DirectJDKLog.java:180]-Starting Servlet Engine: Apache Tomcat/8.5.37
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:20:[DirectJDKLog.java:180]-Initializing Spring embedded WebApplicationContext
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:21:[WebApplicationImpl.java:815]-Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:21:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:21:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:21:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:21:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[WARN]-[main]-2019-02-25 10:02:22:[ArchaiusAutoConfiguration.java:148]-No spring.application.name found, defaulting to 'application'
+[WARN]-[main]-2019-02-25 10:02:22:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:02:22:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 10:02:22:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:02:22:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[DEBUG]-[main]-2019-02-25 10:02:22:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:22:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:22:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:02:22:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:02:22:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy44
+[DEBUG]-[main]-2019-02-25 10:02:22:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:02:22:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:02:22:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:02:22:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:02:22:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryClient.java:350]-Client configured to neither register nor query for data.
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryClient.java:363]-Discovery Client initialized at timestamp 1551060145183 with initial instances count: 0
+[INFO]-[main]-2019-02-25 10:02:25:[DefaultEurekaServerContext.java:63]-Initializing ...
+[DEBUG]-[main]-2019-02-25 10:02:25:[EndpointUtils.java:183]-The availability zone for the given region us-east-1 are [defaultZone]
+[INFO]-[main]-2019-02-25 10:02:25:[PeerEurekaNodes.java:188]-Adding new peer nodes [http://localhost:8881/eureka/]
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[DEBUG]-[main]-2019-02-25 10:02:25:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://localhost:8881/eureka/
+[INFO]-[main]-2019-02-25 10:02:25:[PeerEurekaNodes.java:110]-Replica node URL:  http://localhost:8881/eureka/
+[INFO]-[main]-2019-02-25 10:02:25:[AbstractInstanceRegistry.java:152]-Finished initializing remote region registries. All known remote regions: []
+[INFO]-[main]-2019-02-25 10:02:25:[DefaultEurekaServerContext.java:66]-Initialized
+[DEBUG]-[main]-2019-02-25 10:02:26:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:26:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:26:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:02:26:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:02:26:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy44
+[DEBUG]-[main]-2019-02-25 10:02:26:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:02:26:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:02:26:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:02:26:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:02:26:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[Thread-31]-2019-02-25 10:02:26:[PeerAwareInstanceRegistryImpl.java:242]-Got 1 instances from neighboring DS node
+[INFO]-[Thread-31]-2019-02-25 10:02:26:[PeerAwareInstanceRegistryImpl.java:243]-Renew threshold is: 1
+[INFO]-[Thread-31]-2019-02-25 10:02:26:[PeerAwareInstanceRegistryImpl.java:254]-Changing status to UP
+[INFO]-[main]-2019-02-25 10:02:26:[DirectJDKLog.java:180]-Starting ProtocolHandler ["http-nio-8881"]
+[INFO]-[main]-2019-02-25 10:02:26:[DirectJDKLog.java:180]-Using a shared selector for servlet write/read
+[INFO]-[main]-2019-02-25 10:02:26:[StartupInfoLogger.java:57]-Started EurekaServerApplication in 9.832 seconds (JVM running for 12.591)
+[INFO]-[main]-2019-02-25 10:02:26:[EurekaServerApplication.java:17]-+++++++++++++EurekaServerApplication+++++++++++++++
+[DEBUG]-[Eureka-CacheFillTimer]-2019-02-25 10:02:30:[ResponseCacheImpl.java:173]-Updating the client cache from response cache
+[INFO]-[main]-2019-02-25 10:02:52:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[DEBUG]-[main]-2019-02-25 10:02:53:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:53:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:53:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:02:53:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:02:53:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy46
+[DEBUG]-[main]-2019-02-25 10:02:53:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:02:53:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:02:53:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:02:53:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:02:53:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 10:02:53:[DirectJDKLog.java:180]-Initializing ProtocolHandler ["http-nio-9000"]
+[INFO]-[main]-2019-02-25 10:02:53:[DirectJDKLog.java:180]-Starting service [Tomcat]
+[INFO]-[main]-2019-02-25 10:02:53:[DirectJDKLog.java:180]-Starting Servlet Engine: Apache Tomcat/8.5.37
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:53:[DirectJDKLog.java:180]-Initializing Spring embedded WebApplicationContext
+[WARN]-[main]-2019-02-25 10:02:54:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:02:54:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 10:02:54:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:02:54:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[DEBUG]-[main]-2019-02-25 10:02:54:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:54:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:54:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:02:54:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:02:54:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy46
+[DEBUG]-[main]-2019-02-25 10:02:54:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:02:54:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:02:54:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:02:54:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:02:54:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:02:55:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 30 SECONDS
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:02:55:[ConnPoolByRoute.java:720]-Closing connections idle longer than 30 SECONDS
+[DEBUG]-[main]-2019-02-25 10:02:56:[TypeAnnotationAwareMetaDataProvider.java:191]-HV000188: Parameterized type with more than one argument is not supported: org.eclipse.jgit.api.TransportCommand<?, ?>
+[DEBUG]-[main]-2019-02-25 10:02:57:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:57:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:02:57:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:02:57:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:02:57:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy46
+[DEBUG]-[main]-2019-02-25 10:02:57:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:02:57:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:02:57:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:02:57:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:02:57:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 10:02:57:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[INFO]-[main]-2019-02-25 10:02:58:[ConfigClusterResolver.java:43]-Resolving eureka endpoints via configuration
+[DEBUG]-[main]-2019-02-25 10:02:58:[EndpointUtils.java:225]-The availability zone for the given region us-east-1 are [defaultZone]
+[DEBUG]-[main]-2019-02-25 10:02:58:[ConfigClusterResolver.java:90]-Config resolved to [AwsEndpoint{ serviceUrl='http://localhost:8881/eureka/', region='us-east-1', zone='defaultZone'}]
+[DEBUG]-[main]-2019-02-25 10:02:58:[ZoneAffinityClusterResolver.java:67]-Local zone=defaultZone; resolved to: [AwsEndpoint{ serviceUrl='http://localhost:8881/eureka/', region='us-east-1', zone='defaultZone'}]
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:929]-Disable delta property : false
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:930]-Single vip registry refresh property : null
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:931]-Force full registry fetch : false
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:932]-Application is null : false
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:933]-Registered Applications size is zero : true
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:935]-Application version is -1: true
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:1018]-Getting all instance registry info from the eureka server
+[DEBUG]-[main]-2019-02-25 10:02:58:[SessionedEurekaHttpClient.java:67]-Ending a session and starting anew
+[DEBUG]-[main]-2019-02-25 10:02:58:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://localhost:8881/eureka/
+[DEBUG]-[main]-2019-02-25 10:02:58:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://localhost:8881, timeout = 5000
+[DEBUG]-[main]-2019-02-25 10:02:58:[ConnPoolByRoute.java:347]-[{}->http://localhost:8881] total kept alive: 0, total issued: 0, total allocated: 0 out of 200
+[DEBUG]-[main]-2019-02-25 10:02:58:[ConnPoolByRoute.java:522]-No free connections [{}->http://localhost:8881][null]
+[DEBUG]-[main]-2019-02-25 10:02:58:[ConnPoolByRoute.java:366]-Available capacity: 50 out of 50 [{}->http://localhost:8881][null]
+[DEBUG]-[main]-2019-02-25 10:02:58:[ConnPoolByRoute.java:548]-Creating new connection [{}->http://localhost:8881]
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnectionOperator.java:177]-Connecting to localhost:8881
+[DEBUG]-[main]-2019-02-25 10:02:58:[RequestAddCookies.java:123]-CookieSpec selected: default
+[DEBUG]-[main]-2019-02-25 10:02:58:[RequestAuthCache.java:77]-Auth cache not set in the context
+[DEBUG]-[main]-2019-02-25 10:02:58:[RequestTargetAuthentication.java:80]-Target auth state: UNCHALLENGED
+[DEBUG]-[main]-2019-02-25 10:02:58:[RequestProxyAuthentication.java:89]-Proxy auth state: UNCHALLENGED
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultRequestDirector.java:682]-Attempt 1 to execute request
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:274]-Sending request: GET /eureka/apps/ HTTP/1.1
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- >> "GET /eureka/apps/ HTTP/1.1[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- >> "Accept: application/json[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- >> "DiscoveryIdentity-Name: DefaultClient[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- >> "DiscoveryIdentity-Version: 1.4[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- >> "DiscoveryIdentity-Id: 172.20.10.2[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- >> "Accept-Encoding: gzip[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- >> "Host: localhost:8881[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- >> "User-Agent: Java-EurekaClient/v1.7.0[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:278]->> GET /eureka/apps/ HTTP/1.1
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:281]->> Accept: application/json
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Name: DefaultClient
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Version: 1.4
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Id: 172.20.10.2
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:281]->> Accept-Encoding: gzip
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:281]->> Host: localhost:8881
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:281]->> Connection: Keep-Alive
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:281]->> User-Agent: Java-EurekaClient/v1.7.0
+[INFO]-[http-nio-8881-exec-1]-2019-02-25 10:02:58:[DirectJDKLog.java:180]-Initializing Spring FrameworkServlet 'dispatcherServlet'
+[DEBUG]-[http-nio-8881-exec-1]-2019-02-25 10:02:58:[AbstractInstanceRegistry.java:737]-Fetching applications registry with remote regions: false, Regions argument []
+[DEBUG]-[http-nio-8881-exec-1]-2019-02-25 10:02:58:[ResponseCacheImpl.java:377]-New application cache entry {name=ALL_APPS, type=Application, format=JSON} with apps hashcode 
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- << "HTTP/1.1 200 [\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- << "Content-Encoding: gzip[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- << "Content-Type: application/json[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- << "Content-Length: 80[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- << "Date: Mon, 25 Feb 2019 02:02:58 GMT[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:73]- << "[\r][\n]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:259]-Receiving response: HTTP/1.1 200 
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:262]-<< HTTP/1.1 200 
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:265]-<< Content-Encoding: gzip
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:265]-<< Content-Type: application/json
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:265]-<< Content-Length: 80
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultClientConnection.java:265]-<< Date: Mon, 25 Feb 2019 02:02:58 GMT
+[DEBUG]-[main]-2019-02-25 10:02:58:[DefaultRequestDirector.java:509]-Connection can be kept alive indefinitely
+[DEBUG]-[main]-2019-02-25 10:02:58:[Wire.java:87]- << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x0][0xab]VJ,([0xc8][0xc9]LN,[0xc9][0xcc][0xcf]+V[0xb2][0xaa]V*K-*[0x6][0xb1][0xe3][0xe3]SRsJ[0x12][0x95][0xac][0x94][0xc][0x95]t@[0xaa][0x80]"[0x19][0x89][0xc5][0x19][0xc9][0xf9])[0xa9]@A[0x88][0x18]L[0xa7][0x92]Utlm-[0x0][0x14][0x8]FBM[0x0][0x0][0x0]"
+[DEBUG]-[main]-2019-02-25 10:02:58:[ThreadSafeClientConnManager.java:286]-Released connection is reusable.
+[DEBUG]-[main]-2019-02-25 10:02:58:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://localhost:8881][null]
+[DEBUG]-[main]-2019-02-25 10:02:58:[ConnPoolByRoute.java:457]-Pooling connection [{}->http://localhost:8881][null]; keep alive indefinitely
+[DEBUG]-[main]-2019-02-25 10:02:58:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[main]-2019-02-25 10:02:58:[AbstractJerseyEurekaHttpClient.java:206]-Jersey HTTP GET http://localhost:8881/eureka//apps/?; statusCode=200
+[DEBUG]-[main]-2019-02-25 10:02:58:[RedirectingEurekaHttpClient.java:121]-Pinning to endpoint null
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:1027]-The response status is 200
+[DEBUG]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:1033]-Got full registry with apps hashcode 
+[DEBUG]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:1097]-The total number of all instances in the client now is 0
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:1253]-Starting heartbeat executor: renew interval is: 30
+[INFO]-[main]-2019-02-25 10:02:58:[InstanceInfoReplicator.java:59]-InstanceInfoReplicator onDemand update allowed rate per min is 4
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:434]-Discovery Client initialized at timestamp 1551060178976 with initial instances count: 0
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:1288]-Saw local status change event StatusChangeEvent [timestamp=1551060178992, current=UP, previous=STARTING]
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:58:[InstanceInfoReplicator.java:80]-Executing on-demand update of local InstanceInfo
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:58:[InstanceInfoReplicator.java:84]-Canceling the latest scheduled update, it will be rescheduled at the end of on demand update
+[INFO]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:58:[DiscoveryClient.java:804]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000: registering service...
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:58:[SessionedEurekaHttpClient.java:67]-Ending a session and starting anew
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:58:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://localhost:8881/eureka/
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:58:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://localhost:8881, timeout = 5000
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:58:[ConnPoolByRoute.java:347]-[{}->http://localhost:8881] total kept alive: 1, total issued: 0, total allocated: 1 out of 200
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:58:[ConnPoolByRoute.java:496]-Getting free connection [{}->http://localhost:8881][null]
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:58:[DefaultRequestDirector.java:431]-Stale connection check
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[RequestAddCookies.java:123]-CookieSpec selected: default
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[RequestAuthCache.java:77]-Auth cache not set in the context
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[RequestTargetAuthentication.java:80]-Target auth state: UNCHALLENGED
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[RequestProxyAuthentication.java:89]-Proxy auth state: UNCHALLENGED
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultRequestDirector.java:682]-Attempt 1 to execute request
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:274]-Sending request: POST /eureka/apps/CONFIG-CENTER HTTP/1.1
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "POST /eureka/apps/CONFIG-CENTER HTTP/1.1[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "Accept-Encoding: gzip[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "Content-Type: application/json[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "Accept: application/json[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "DiscoveryIdentity-Name: DefaultClient[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "DiscoveryIdentity-Version: 1.4[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "DiscoveryIdentity-Id: 172.20.10.2[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "Transfer-Encoding: chunked[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "Host: localhost:8881[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "User-Agent: Java-EurekaClient/v1.7.0[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:278]->> POST /eureka/apps/CONFIG-CENTER HTTP/1.1
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Accept-Encoding: gzip
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Content-Type: application/json
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Accept: application/json
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Name: DefaultClient
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Version: 1.4
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Id: 172.20.10.2
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Transfer-Encoding: chunked
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Host: localhost:8881
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Connection: Keep-Alive
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> User-Agent: Java-EurekaClient/v1.7.0
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "179[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:87]- >> "{"instance":{"instanceId":"XA00255_NB.novatek.com.tw:config-center:9000","hostName":"172.20.10.2","app":"CONFIG-CENTER","ipAddr":"172.20.10.2","status":"UP","overriddenstatus":"UNKNOWN","port":{"$":9000,"@enabled":"true"},"securePort":{"$":443,"@enabled":"false"},"countryId":1,"dataCenterInfo":{"@class":"com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo","name":"MyOwn"}"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[INFO]-[main]-2019-02-25 10:02:59:[DirectJDKLog.java:180]-Starting ProtocolHandler ["http-nio-9000"]
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "9d[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:87]- >> ","leaseInfo":{"renewalIntervalInSecs":30,"durationInSecs":90,"registrationTimestamp":0,"lastRenewalTimestamp":0,"evictionTimestamp":0,"serviceUpTimestamp":0}"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "39[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:87]- >> ","metadata":{"management.port":"9000","jmx.port":"63732"}"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "140[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:87]- >> ","homePageUrl":"http://172.20.10.2:9000/","statusPageUrl":"http://172.20.10.2:9000/info","healthCheckUrl":"http://172.20.10.2:9000/health","vipAddress":"config-center","secureVipAddress":"config-center","isCoordinatingDiscoveryServer":"false","lastUpdatedTimestamp":"1551060177467","lastDirtyTimestamp":"1551060178992"}}"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "0[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[INFO]-[main]-2019-02-25 10:02:59:[DirectJDKLog.java:180]-Using a shared selector for servlet write/read
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ApplicationResource.java:146]-Registering instance XA00255_NB.novatek.com.tw:config-center:9000 (replication=null)
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[AbstractInstanceRegistry.java:228]-No previous lease information found; it is new registration
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[AbstractInstanceRegistry.java:1320]-Processing override status using rule: [com.netflix.eureka.registry.rule.DownOrStartingRule, com.netflix.eureka.registry.rule.OverrideExistsRule, com.netflix.eureka.registry.rule.LeaseExistsRule, com.netflix.eureka.registry.rule.AlwaysMatchInstanceStatusRule]
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[AlwaysMatchInstanceStatusRule.java:20]-Returning the default instance status UP for instance XA00255_NB.novatek.com.tw:config-center:9000
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V1 JSON, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V1 JSON, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V1 JSON, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V1 JSON, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V1 JSON, full
+[INFO]-[main]-2019-02-25 10:02:59:[StartupInfoLogger.java:57]-Started ConfigServerApplication in 10.112 seconds (JVM running for 11.936)
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V1 JSON, compact
+[INFO]-[main]-2019-02-25 10:02:59:[ConfigServerApplication.java:19]-++++++++++ConfigServerApplication+++++++++++++
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : VIP config-center V1 JSON, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : SVIP config-center V1 JSON, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V2 JSON, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V2 JSON, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V2 JSON, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V2 JSON, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V2 JSON, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V2 JSON, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : VIP config-center V2 JSON, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : SVIP config-center V2 JSON, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V1 XML, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V1 XML, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V1 XML, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V1 XML, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V1 XML, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V1 XML, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : VIP config-center V1 XML, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : SVIP config-center V1 XML, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V2 XML, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V2 XML, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V2 XML, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V2 XML, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V2 XML, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V2 XML, compact
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : VIP config-center V2 XML, full
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : SVIP config-center V2 XML, full
+[INFO]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[AbstractInstanceRegistry.java:267]-Registered instance CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000 with status UP (replication=false)
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- << "HTTP/1.1 204 [\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- << "Content-Type: application/json[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- << "Date: Mon, 25 Feb 2019 02:02:58 GMT[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[Wire.java:73]- << "[\r][\n]"
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:259]-Receiving response: HTTP/1.1 204 
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:262]-<< HTTP/1.1 204 
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:265]-<< Content-Type: application/json
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultClientConnection.java:265]-<< Date: Mon, 25 Feb 2019 02:02:58 GMT
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DefaultRequestDirector.java:509]-Connection can be kept alive indefinitely
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[ThreadSafeClientConnManager.java:286]-Released connection is reusable.
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://localhost:8881][null]
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[ConnPoolByRoute.java:457]-Pooling connection [{}->http://localhost:8881][null]; keep alive indefinitely
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[AbstractJerseyEurekaHttpClient.java:60]-Jersey HTTP POST http://localhost:8881/eureka//apps/CONFIG-CENTER with instance XA00255_NB.novatek.com.tw:config-center:9000; statusCode=204
+[DEBUG]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[RedirectingEurekaHttpClient.java:121]-Pinning to endpoint null
+[INFO]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DiscoveryClient.java:813]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000 - registration status: 204
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://localhost:8881, timeout = 200
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[ConnPoolByRoute.java:347]-[{}->http://localhost:8881] total kept alive: 0, total issued: 0, total allocated: 0 out of 1000
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[ConnPoolByRoute.java:522]-No free connections [{}->http://localhost:8881][null]
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[ConnPoolByRoute.java:366]-Available capacity: 500 out of 500 [{}->http://localhost:8881][null]
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[ConnPoolByRoute.java:548]-Creating new connection [{}->http://localhost:8881]
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnectionOperator.java:177]-Connecting to localhost:8881
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[RequestAddCookies.java:123]-CookieSpec selected: default
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[RequestAuthCache.java:77]-Auth cache not set in the context
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[RequestTargetAuthentication.java:80]-Target auth state: UNCHALLENGED
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[RequestProxyAuthentication.java:89]-Proxy auth state: UNCHALLENGED
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultRequestDirector.java:682]-Attempt 1 to execute request
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:274]-Sending request: POST /eureka/peerreplication/batch/ HTTP/1.1
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "POST /eureka/peerreplication/batch/ HTTP/1.1[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "Accept: application/json[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "Content-Type: application/json[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "DiscoveryIdentity-Name: DefaultServer[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "DiscoveryIdentity-Version: 1.0[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "DiscoveryIdentity-Id: 172.20.10.2[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "Accept-Encoding: gzip[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "Transfer-Encoding: chunked[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "Host: localhost:8881[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "User-Agent: Java-EurekaClient-Replication/v1.7.0[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:278]->> POST /eureka/peerreplication/batch/ HTTP/1.1
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Accept: application/json
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Content-Type: application/json
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Name: DefaultServer
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Version: 1.0
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Id: 172.20.10.2
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Accept-Encoding: gzip
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Transfer-Encoding: chunked
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Host: localhost:8881
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> Connection: Keep-Alive
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:281]->> User-Agent: Java-EurekaClient-Replication/v1.7.0
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "210[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:87]- >> "{"replicationList":[{"appName":"CONFIG-CENTER","id":"XA00255_NB.novatek.com.tw:config-center:9000","lastDirtyTimestamp":1551060178992,"status":"UP","instanceInfo":{"instanceId":"XA00255_NB.novatek.com.tw:config-center:9000","hostName":"172.20.10.2","app":"CONFIG-CENTER","ipAddr":"172.20.10.2","status":"UP","overriddenstatus":"UNKNOWN","port":{"$":9000,"@enabled":"true"},"securePort":{"$":443,"@enabled":"false"},"countryId":1,"dataCenterInfo":{"@class":"com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo","name":"MyOwn"}"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "9d[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:87]- >> ","leaseInfo":{"renewalIntervalInSecs":30,"durationInSecs":90,"registrationTimestamp":0,"lastRenewalTimestamp":0,"evictionTimestamp":0,"serviceUpTimestamp":0}"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "39[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:87]- >> ","metadata":{"management.port":"9000","jmx.port":"63732"}"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "16b[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:87]- >> ","homePageUrl":"http://172.20.10.2:9000/","statusPageUrl":"http://172.20.10.2:9000/info","healthCheckUrl":"http://172.20.10.2:9000/health","vipAddress":"config-center","secureVipAddress":"config-center","isCoordinatingDiscoveryServer":"false","lastUpdatedTimestamp":"1551060179101","lastDirtyTimestamp":"1551060178992","actionType":"ADDED"},"action":"Register"}]}"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "0[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ApplicationResource.java:146]-Registering instance XA00255_NB.novatek.com.tw:config-center:9000 (replication=true)
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[AbstractInstanceRegistry.java:209]-Existing lease found (existing=1551060178992, provided=1551060178992
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[AbstractInstanceRegistry.java:1320]-Processing override status using rule: [com.netflix.eureka.registry.rule.DownOrStartingRule, com.netflix.eureka.registry.rule.OverrideExistsRule, com.netflix.eureka.registry.rule.LeaseExistsRule, com.netflix.eureka.registry.rule.AlwaysMatchInstanceStatusRule]
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[AlwaysMatchInstanceStatusRule.java:20]-Returning the default instance status UP for instance XA00255_NB.novatek.com.tw:config-center:9000
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V1 JSON, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V1 JSON, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V1 JSON, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V1 JSON, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V1 JSON, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V1 JSON, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : VIP config-center V1 JSON, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : SVIP config-center V1 JSON, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V2 JSON, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V2 JSON, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V2 JSON, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V2 JSON, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V2 JSON, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V2 JSON, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : VIP config-center V2 JSON, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : SVIP config-center V2 JSON, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V1 XML, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V1 XML, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V1 XML, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V1 XML, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V1 XML, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V1 XML, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : VIP config-center V1 XML, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : SVIP config-center V1 XML, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V2 XML, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application CONFIG-CENTER V2 XML, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V2 XML, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS V2 XML, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V2 XML, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : Application ALL_APPS_DELTA V2 XML, compact
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : VIP config-center V2 XML, full
+[DEBUG]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[ResponseCacheImpl.java:271]-Invalidating the response cache key : SVIP config-center V2 XML, full
+[INFO]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[AbstractInstanceRegistry.java:267]-Registered instance CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000 with status UP (replication=true)
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- << "HTTP/1.1 200 [\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- << "Content-Type: application/json[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- << "Content-Length: 37[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- << "Date: Mon, 25 Feb 2019 02:02:58 GMT[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:73]- << "[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:259]-Receiving response: HTTP/1.1 200 
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:262]-<< HTTP/1.1 200 
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:265]-<< Content-Type: application/json
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:265]-<< Content-Length: 37
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultClientConnection.java:265]-<< Date: Mon, 25 Feb 2019 02:02:58 GMT
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[DefaultRequestDirector.java:509]-Connection can be kept alive indefinitely
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[Wire.java:87]- << "{"responseList":[{"statusCode":200}]}"
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[ThreadSafeClientConnManager.java:286]-Released connection is reusable.
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://localhost:8881][null]
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[ConnPoolByRoute.java:457]-Pooling connection [{}->http://localhost:8881][null]; keep alive indefinitely
+[DEBUG]-[TaskBatchingWorker-target_localhost-8]-2019-02-25 10:02:59:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[Eureka-CacheFillTimer]-2019-02-25 10:03:00:[ResponseCacheImpl.java:173]-Updating the client cache from response cache
+[DEBUG]-[Eureka-CacheFillTimer]-2019-02-25 10:03:00:[ResponseCacheImpl.java:177]-Updating the client cache from response cache for key : Application ALL_APPS V2 JSON
+[DEBUG]-[Eureka-CacheFillTimer]-2019-02-25 10:03:00:[AbstractInstanceRegistry.java:737]-Fetching applications registry with remote regions: false, Regions argument []
+[DEBUG]-[Eureka-CacheFillTimer]-2019-02-25 10:03:00:[ResponseCacheImpl.java:377]-New application cache entry {name=ALL_APPS, type=Application, format=JSON} with apps hashcode UP_1_
+[DEBUG]-[http-nio-8881-exec-4]-2019-02-25 10:03:16:[AbstractInstanceRegistry.java:737]-Fetching applications registry with remote regions: false, Regions argument []
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:03:25:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 30 SECONDS
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:03:25:[ConnPoolByRoute.java:720]-Closing connections idle longer than 30 SECONDS
+[INFO]-[Eureka-EvictionTimer]-2019-02-25 10:03:26:[AbstractInstanceRegistry.java:1254]-Running the evict task with compensationTime 0ms
+[DEBUG]-[Eureka-EvictionTimer]-2019-02-25 10:03:26:[AbstractInstanceRegistry.java:585]-Running the evict task
+[DEBUG]-[Eureka-EvictionTimer]-2019-02-25 10:03:26:[AbstractInstanceRegistry.java:588]-DS: lease expiration is currently disabled.
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:03:28:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than 30000 SECONDS
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:03:28:[ConnPoolByRoute.java:720]-Closing connections idle longer than 30000 SECONDS
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:03:28:[ThreadSafeClientConnManager.java:332]-Closing connections idle longer than -1 SECONDS
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:03:28:[ConnPoolByRoute.java:720]-Closing connections idle longer than 0 SECONDS
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:03:28:[ConnPoolByRoute.java:731]-Closing connection last used @ Mon Feb 25 10:02:59 CST 2019
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:03:28:[ConnPoolByRoute.java:583]-Deleting connection [{}->http://localhost:8881][null]
+[DEBUG]-[Eureka-JerseyClient-Conn-Cleaner2]-2019-02-25 10:03:28:[DefaultClientConnection.java:180]-Connection 0.0.0.0:63744<->127.0.0.1:8881 closed
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://localhost:8881, timeout = 5000
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:347]-[{}->http://localhost:8881] total kept alive: 0, total issued: 0, total allocated: 0 out of 200
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:522]-No free connections [{}->http://localhost:8881][null]
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:366]-Available capacity: 50 out of 50 [{}->http://localhost:8881][null]
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:548]-Creating new connection [{}->http://localhost:8881]
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:929]-Disable delta property : false
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:930]-Single vip registry refresh property : null
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnectionOperator.java:177]-Connecting to localhost:8881
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:931]-Force full registry fetch : false
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:932]-Application is null : false
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:933]-Registered Applications size is zero : true
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:935]-Application version is -1: false
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:1018]-Getting all instance registry info from the eureka server
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://localhost:8881, timeout = 5000
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:347]-[{}->http://localhost:8881] total kept alive: 0, total issued: 1, total allocated: 1 out of 200
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[RequestAddCookies.java:123]-CookieSpec selected: default
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:522]-No free connections [{}->http://localhost:8881][null]
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[RequestAuthCache.java:77]-Auth cache not set in the context
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:366]-Available capacity: 49 out of 50 [{}->http://localhost:8881][null]
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[RequestTargetAuthentication.java:80]-Target auth state: UNCHALLENGED
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[RequestProxyAuthentication.java:89]-Proxy auth state: UNCHALLENGED
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultRequestDirector.java:682]-Attempt 1 to execute request
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:274]-Sending request: PUT /eureka/apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000?status=UP&lastDirtyTimestamp=1551060178992 HTTP/1.1
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:548]-Creating new connection [{}->http://localhost:8881]
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "PUT /eureka/apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000?status=UP&lastDirtyTimestamp=1551060178992 HTTP/1.1[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnectionOperator.java:177]-Connecting to localhost:8881
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "DiscoveryIdentity-Name: DefaultClient[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "DiscoveryIdentity-Version: 1.4[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "DiscoveryIdentity-Id: 172.20.10.2[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "Accept-Encoding: gzip[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "Content-Length: 0[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "Host: localhost:8881[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "User-Agent: Java-EurekaClient/v1.7.0[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:278]->> PUT /eureka/apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000?status=UP&lastDirtyTimestamp=1551060178992 HTTP/1.1
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Name: DefaultClient
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Version: 1.4
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[RequestAddCookies.java:123]-CookieSpec selected: default
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Id: 172.20.10.2
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[RequestAuthCache.java:77]-Auth cache not set in the context
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[RequestTargetAuthentication.java:80]-Target auth state: UNCHALLENGED
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> Accept-Encoding: gzip
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[RequestProxyAuthentication.java:89]-Proxy auth state: UNCHALLENGED
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> Content-Length: 0
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultRequestDirector.java:682]-Attempt 1 to execute request
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> Host: localhost:8881
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> Connection: Keep-Alive
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:274]-Sending request: GET /eureka/apps/ HTTP/1.1
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> User-Agent: Java-EurekaClient/v1.7.0
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "GET /eureka/apps/ HTTP/1.1[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "Accept: application/json[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "DiscoveryIdentity-Name: DefaultClient[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "DiscoveryIdentity-Version: 1.4[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "DiscoveryIdentity-Id: 172.20.10.2[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "Accept-Encoding: gzip[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "Host: localhost:8881[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "User-Agent: Java-EurekaClient/v1.7.0[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:278]->> GET /eureka/apps/ HTTP/1.1
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> Accept: application/json
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Name: DefaultClient
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Version: 1.4
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Id: 172.20.10.2
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> Accept-Encoding: gzip
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> Host: localhost:8881
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> Connection: Keep-Alive
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:281]->> User-Agent: Java-EurekaClient/v1.7.0
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "HTTP/1.1 200 [\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "Content-Encoding: gzip[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "Content-Type: application/json[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "Content-Length: 545[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "Date: Mon, 25 Feb 2019 02:03:28 GMT[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "[\r][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:259]-Receiving response: HTTP/1.1 200 
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:262]-<< HTTP/1.1 200 
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:265]-<< Content-Encoding: gzip
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:265]-<< Content-Type: application/json
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:265]-<< Content-Length: 545
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:265]-<< Date: Mon, 25 Feb 2019 02:03:28 GMT
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DefaultRequestDirector.java:509]-Connection can be kept alive indefinitely
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x0][0x85]Sao[0xda]0[0x10][0xfd]/V?[0xd2]`C[0x81][0x92]Oe[0x84]MhZ@m[0xd9]*M[0x13][0xf2][0x9c][0x83]xM[0xec][0xc8]v[0xa0][0x8][0xf1][0xdf]{NHK;[0xd6][0x89][0xf][0xe0][0xe7][0xe7][0xbb]{[0xef][0x1d]{[0xc2][0x8b]"[0x93][0x82];[0xa9][0x95]%[0xe1][0x9e]l[0xc0]X[0xff]{[0xb9]L s[0x9c][0x84][0x84][0x91][0x96]g![0x92]r[0x9b][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "[0x9d][0x0][0x82][0x8b][0xf9][0x92]-[0xeb][0x8b][0xe6]9[0x9][0xee][0x89][0xe2][0xb9][0xbf][0x1e][0xcf][0xe2][0xcf][0xd3]/[0x97][0xe3]I|?[0xb9]E[0x9a]T[0xd6]q%[0xa0][0xe2]4[0x87]i[0x82][0xcc][0x87][0x11][0xa5][0x9d]^o[0x19][\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "[0x94][0xde]p[0x7][0x8f][0x81][0xd0]y[0xe0][0xb6][0xa1][0xd0]j%[0xd7][0x97][0x2][0x94][0x3][0x13][0xe])[0xa5]X([0xd5][0xd6][0xc5]u[0xf]6[0xe8][0x4][0x1d][0x1a]0[0x1a]t[0xea]A[0xce][0xf5]-FIb[0xfe]"cW[0xda]J[0x6][0x9e]4j62I@[0xbd][0xe2][0xf1][0xd7]x[0xf6]#[0xc6][0xcb]B[0x1b][0xe7]}[0xb9] [0xd5][0x8]-r[0x3][0x8a][0xff][0xce][0xc0][0xcf][0xee]L[0x9][0xe4][0x80][0xe5]@[0x94][0x6][0xe6][0xaf][0xcc][0xab][0xab][0xee][0x1b][0xe2][0x8a]g[0xb6]b[\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "]*gv^9k[0x91][0x84];>[0xae][0xe4]M[0xd5]J[0xfb][0xb7]7"[0xe3][0xd6][0xf][0xe0]=P[0xe0]V[0x99]|[\n]"
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[Wire.java:87]- << "P[0x9a][0xc4][0xfb]`[0xda][0xf8][0x86][0x87][0x8b][0x8]V[0xbc][0xcc]\[0xf4][0xb6]D[0xab][0x9][0xe0][0xdb]n[0xb6]U[0xbe]c[0x6][0xdc]BS[0xde][0x80][0x82]-[0xcf][0xa6][0x9e][0xbf][0xf1][0xdf]w [0xb0][[0x17]e%[0xa5][0xa9]Rl[0xb0]!b[0x6][0xd6][0xd2][0xba][0x1a][0xbf][0x97]9`[0xfb][0x1c]]f[0xbd][0x1e][0xa3]}[0xca][0x6][0xc3]k[0x8a]*pbw[[0x17][0xfe]7[0x9]6R[0xbc]+C[0xbd]q[0x6]qX[0x14]g[0x1f]2[0xca]P@[0xe][0x8e]{[0xa3][0xfc][0xfc]9W|[\r]9[0xea][\r][0xea]\[0xc8]q-[0xfe][0xe4]O[\r][0xd2][0xef][0xe][0xba][0x1d][0xaf]<[0xd5]9[0xcc][0x91][0xbe]0[0x19][0xc2][0xa9]sE[0xd8]n[0x9f][0xec]A[0x95]g[0xfb]e[0x1b][0xfe]O[0x95][0xb5][0xc3])[0xf0][0xcc][0xa5][0xe3][0x14][0xc4][0xe3][0xc7][0xfc][0x9a][0x88]/6[0xf5][0x1a][0xc2]1[0xd9][0x93][0xb5]&[0xcd][0xf2]|[0xff][0x88]"[0xed]Xk[0x93]H[0x85]I[0xa8]u$[0xad][0xf0]+[0xbb][0xbb]C[0xf7][0xc0][0xbc][0xac]W[0x9d][0xc4][0xa2]@[0xb3] 91[0x94][0x9c]D[0xc1][0xfa]GZ$[0x8d][0xdb][0x9d]%][0xf][0x87][0xd5][0xff][0xa9][0x8e]kW[0xf8]m[0x1a]E[0xd1]$"[0x87]_[0xf8]9<[0x3][\r][0xa4][0x13] 3[0x4][0x0][0x0]"
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:03:28:[AbstractInstanceRegistry.java:737]-Fetching applications registry with remote regions: false, Regions argument []
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:03:28:[AbstractInstanceRegistry.java:1320]-Processing override status using rule: [com.netflix.eureka.registry.rule.DownOrStartingRule, com.netflix.eureka.registry.rule.OverrideExistsRule, com.netflix.eureka.registry.rule.LeaseExistsRule, com.netflix.eureka.registry.rule.AlwaysMatchInstanceStatusRule]
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:03:28:[LeaseExistsRule.java:33]-There is already an existing lease with status UP  for instance XA00255_NB.novatek.com.tw:config-center:9000
+[DEBUG]-[http-nio-8881-exec-2]-2019-02-25 10:03:28:[InstanceResource.java:134]-Found (Renew): XA00255_NB.novatek.com.tw:config-center:9000 - 200; reply status={}CONFIG-CENTER
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "HTTP/1.1 200 [\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "Content-Type: application/xml[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "Content-Length: 0[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "Date: Mon, 25 Feb 2019 02:03:28 GMT[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[Wire.java:73]- << "[\r][\n]"
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:259]-Receiving response: HTTP/1.1 200 
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:262]-<< HTTP/1.1 200 
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:265]-<< Content-Type: application/xml
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:265]-<< Content-Length: 0
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultClientConnection.java:265]-<< Date: Mon, 25 Feb 2019 02:03:28 GMT
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DefaultRequestDirector.java:509]-Connection can be kept alive indefinitely
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[ThreadSafeClientConnManager.java:286]-Released connection is reusable.
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://localhost:8881][null]
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:457]-Pooling connection [{}->http://localhost:8881][null]; keep alive indefinitely
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[AbstractJerseyEurekaHttpClient.java:110]-Jersey HTTP PUT http://localhost:8881/eureka//apps/CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000; statusCode=200
+[DEBUG]-[DiscoveryClient-HeartbeatExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:825]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000 - Heartbeat status: 200
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[ThreadSafeClientConnManager.java:286]-Released connection is reusable.
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://localhost:8881][null]
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:457]-Pooling connection [{}->http://localhost:8881][null]; keep alive indefinitely
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[AbstractJerseyEurekaHttpClient.java:206]-Jersey HTTP GET http://localhost:8881/eureka//apps/?; statusCode=200
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:1027]-The response status is 200
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:1033]-Got full registry with apps hashcode UP_1_
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:1097]-The total number of all instances in the client now is 1
+[DEBUG]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:1478]-Completed cache refresh task for discovery. All Apps hash code is Local region apps hashcode: UP_1_, is fetching remote regions? false 
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[ThreadSafeClientConnManager.java:240]-Get connection: {}->http://localhost:8881, timeout = 200
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[ConnPoolByRoute.java:347]-[{}->http://localhost:8881] total kept alive: 1, total issued: 0, total allocated: 1 out of 1000
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[ConnPoolByRoute.java:496]-Getting free connection [{}->http://localhost:8881][null]
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultRequestDirector.java:431]-Stale connection check
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[RequestAddCookies.java:123]-CookieSpec selected: default
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[RequestAuthCache.java:77]-Auth cache not set in the context
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[RequestTargetAuthentication.java:80]-Target auth state: UNCHALLENGED
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[RequestProxyAuthentication.java:89]-Proxy auth state: UNCHALLENGED
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultRequestDirector.java:682]-Attempt 1 to execute request
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:274]-Sending request: POST /eureka/peerreplication/batch/ HTTP/1.1
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "POST /eureka/peerreplication/batch/ HTTP/1.1[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "Accept: application/json[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "Content-Type: application/json[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "DiscoveryIdentity-Name: DefaultServer[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "DiscoveryIdentity-Version: 1.0[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "DiscoveryIdentity-Id: 172.20.10.2[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "Accept-Encoding: gzip[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "Transfer-Encoding: chunked[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "Host: localhost:8881[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "User-Agent: Java-EurekaClient-Replication/v1.7.0[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:278]->> POST /eureka/peerreplication/batch/ HTTP/1.1
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:281]->> Accept: application/json
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:281]->> Content-Type: application/json
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Name: DefaultServer
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Version: 1.0
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:281]->> DiscoveryIdentity-Id: 172.20.10.2
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:281]->> Accept-Encoding: gzip
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:281]->> Transfer-Encoding: chunked
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:281]->> Host: localhost:8881
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:281]->> Connection: Keep-Alive
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:281]->> User-Agent: Java-EurekaClient-Replication/v1.7.0
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "ab[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:87]- >> "{"replicationList":[{"appName":"CONFIG-CENTER","id":"XA00255_NB.novatek.com.tw:config-center:9000","lastDirtyTimestamp":1551060178992,"status":"UP","action":"Heartbeat"}]}"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "0[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- >> "[\r][\n]"
+[DEBUG]-[http-nio-8881-exec-4]-2019-02-25 10:03:29:[AbstractInstanceRegistry.java:737]-Fetching applications registry with remote regions: false, Regions argument []
+[DEBUG]-[http-nio-8881-exec-4]-2019-02-25 10:03:29:[AbstractInstanceRegistry.java:1320]-Processing override status using rule: [com.netflix.eureka.registry.rule.DownOrStartingRule, com.netflix.eureka.registry.rule.OverrideExistsRule, com.netflix.eureka.registry.rule.LeaseExistsRule, com.netflix.eureka.registry.rule.AlwaysMatchInstanceStatusRule]
+[DEBUG]-[http-nio-8881-exec-4]-2019-02-25 10:03:29:[AlwaysMatchInstanceStatusRule.java:20]-Returning the default instance status UP for instance XA00255_NB.novatek.com.tw:config-center:9000
+[DEBUG]-[http-nio-8881-exec-4]-2019-02-25 10:03:29:[InstanceResource.java:134]-Found (Renew): XA00255_NB.novatek.com.tw:config-center:9000 - 200; reply status={}CONFIG-CENTER
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- << "HTTP/1.1 200 [\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- << "Content-Type: application/json[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- << "Content-Length: 37[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- << "Date: Mon, 25 Feb 2019 02:03:28 GMT[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:73]- << "[\r][\n]"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:259]-Receiving response: HTTP/1.1 200 
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:262]-<< HTTP/1.1 200 
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:265]-<< Content-Type: application/json
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:265]-<< Content-Length: 37
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultClientConnection.java:265]-<< Date: Mon, 25 Feb 2019 02:03:28 GMT
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[DefaultRequestDirector.java:509]-Connection can be kept alive indefinitely
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[Wire.java:87]- << "{"responseList":[{"statusCode":200}]}"
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[ThreadSafeClientConnManager.java:286]-Released connection is reusable.
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[ConnPoolByRoute.java:431]-Releasing connection [{}->http://localhost:8881][null]
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[ConnPoolByRoute.java:457]-Pooling connection [{}->http://localhost:8881][null]; keep alive indefinitely
+[DEBUG]-[TaskBatchingWorker-target_localhost-7]-2019-02-25 10:03:29:[ConnPoolByRoute.java:678]-Notifying no-one, there are no waiting threads
+[INFO]-[http-nio-9000-exec-1]-2019-02-25 10:03:29:[DirectJDKLog.java:180]-Initializing Spring FrameworkServlet 'dispatcherServlet'
+[DEBUG]-[Eureka-CacheFillTimer]-2019-02-25 10:03:30:[ResponseCacheImpl.java:173]-Updating the client cache from response cache
+[DEBUG]-[Eureka-CacheFillTimer]-2019-02-25 10:03:30:[ResponseCacheImpl.java:177]-Updating the client cache from response cache for key : Application ALL_APPS V2 JSON
+[INFO]-[main]-2019-02-25 10:39:02:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[DEBUG]-[main]-2019-02-25 10:39:03:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:39:03:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:39:03:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:39:03:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:39:03:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+[DEBUG]-[main]-2019-02-25 10:39:03:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:39:03:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:39:03:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:39:03:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:39:03:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[WARN]-[main]-2019-02-25 10:39:04:[ArchaiusAutoConfiguration.java:148]-No spring.application.name found, defaulting to 'application'
+[WARN]-[main]-2019-02-25 10:39:04:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:39:04:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 10:39:04:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:39:04:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[DEBUG]-[main]-2019-02-25 10:39:04:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:39:04:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:39:04:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:39:04:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:39:04:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+[DEBUG]-[main]-2019-02-25 10:39:04:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:39:04:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:39:04:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:39:04:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:39:04:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 10:39:08:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[main]-2019-02-25 10:39:08:[DiscoveryClient.java:350]-Client configured to neither register nor query for data.
+[INFO]-[main]-2019-02-25 10:39:08:[DiscoveryClient.java:363]-Discovery Client initialized at timestamp 1551062348280 with initial instances count: 0
+[INFO]-[main]-2019-02-25 10:39:08:[DefaultEurekaServerContext.java:63]-Initializing ...
+[DEBUG]-[main]-2019-02-25 10:39:08:[EndpointUtils.java:183]-The availability zone for the given region us-east-1 are [defaultZone]
+[INFO]-[main]-2019-02-25 10:39:08:[PeerEurekaNodes.java:188]-Adding new peer nodes [http://47.106.206.255:-1/eureka/]
+[INFO]-[main]-2019-02-25 10:39:09:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:39:09:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:39:09:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[main]-2019-02-25 10:39:09:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[DEBUG]-[main]-2019-02-25 10:39:09:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://47.106.206.255:-1/eureka/
+[INFO]-[main]-2019-02-25 10:39:09:[PeerEurekaNodes.java:110]-Replica node URL:  http://47.106.206.255:-1/eureka/
+[INFO]-[main]-2019-02-25 10:39:09:[AbstractInstanceRegistry.java:152]-Finished initializing remote region registries. All known remote regions: []
+[INFO]-[main]-2019-02-25 10:39:09:[DefaultEurekaServerContext.java:66]-Initialized
+[DEBUG]-[main]-2019-02-25 10:39:10:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:39:10:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 10:39:10:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 10:39:10:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 10:39:10:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+[DEBUG]-[main]-2019-02-25 10:39:10:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 10:39:10:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 10:39:10:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 10:39:10:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 10:39:10:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[Thread-11]-2019-02-25 10:39:10:[PeerAwareInstanceRegistryImpl.java:242]-Got 1 instances from neighboring DS node
+[INFO]-[Thread-11]-2019-02-25 10:39:10:[PeerAwareInstanceRegistryImpl.java:243]-Renew threshold is: 1
+[INFO]-[Thread-11]-2019-02-25 10:39:10:[PeerAwareInstanceRegistryImpl.java:254]-Changing status to UP
+[INFO]-[main]-2019-02-25 10:39:10:[StartupInfoLogger.java:57]-Started EurekaServerApplicationTests in 11.274 seconds (JVM running for 12.463)
+[INFO]-[Thread-12]-2019-02-25 10:39:10:[DefaultEurekaServerContext.java:72]-Shutting down ...
+[INFO]-[Thread-12]-2019-02-25 10:39:10:[DefaultEurekaServerContext.java:75]-Shut down
+[INFO]-[Thread-12]-2019-02-25 10:39:10:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
+[INFO]-[Thread-12]-2019-02-25 10:39:10:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
+[INFO]-[main]-2019-02-25 11:08:57:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[DEBUG]-[main]-2019-02-25 11:08:58:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:08:58:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:08:58:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 11:08:58:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 11:08:58:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+[DEBUG]-[main]-2019-02-25 11:08:58:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 11:08:58:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 11:08:58:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 11:08:58:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 11:08:58:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[WARN]-[main]-2019-02-25 11:08:59:[ArchaiusAutoConfiguration.java:148]-No spring.application.name found, defaulting to 'application'
+[WARN]-[main]-2019-02-25 11:08:59:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 11:08:59:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 11:08:59:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 11:08:59:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[DEBUG]-[main]-2019-02-25 11:08:59:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:08:59:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:08:59:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 11:08:59:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 11:08:59:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+[DEBUG]-[main]-2019-02-25 11:08:59:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 11:08:59:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 11:08:59:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 11:08:59:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 11:08:59:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[main]-2019-02-25 11:09:03:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[main]-2019-02-25 11:09:03:[DiscoveryClient.java:350]-Client configured to neither register nor query for data.
+[INFO]-[main]-2019-02-25 11:09:03:[DiscoveryClient.java:363]-Discovery Client initialized at timestamp 1551064143199 with initial instances count: 0
+[INFO]-[main]-2019-02-25 11:09:03:[DefaultEurekaServerContext.java:63]-Initializing ...
+[DEBUG]-[main]-2019-02-25 11:09:03:[EndpointUtils.java:183]-The availability zone for the given region us-east-1 are [defaultZone]
+[INFO]-[main]-2019-02-25 11:09:03:[PeerEurekaNodes.java:188]-Adding new peer nodes [http://47.106.206.255:-1/eureka/]
+[INFO]-[main]-2019-02-25 11:09:04:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 11:09:04:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 11:09:04:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[main]-2019-02-25 11:09:04:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[DEBUG]-[main]-2019-02-25 11:09:04:[AbstractJerseyEurekaHttpClient.java:42]-Created client for url: http://47.106.206.255:-1/eureka/
+[INFO]-[main]-2019-02-25 11:09:04:[PeerEurekaNodes.java:110]-Replica node URL:  http://47.106.206.255:-1/eureka/
+[INFO]-[main]-2019-02-25 11:09:04:[AbstractInstanceRegistry.java:152]-Finished initializing remote region registries. All known remote regions: []
+[INFO]-[main]-2019-02-25 11:09:04:[DefaultEurekaServerContext.java:66]-Initialized
+[DEBUG]-[main]-2019-02-25 11:09:05:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:09:05:[DefaultTraversableResolver.java:70]-Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG]-[main]-2019-02-25 11:09:05:[ConfigurationImpl.java:163]-Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG]-[main]-2019-02-25 11:09:05:[ConfigurationImpl.java:185]-Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG]-[main]-2019-02-25 11:09:05:[ConfigurationImpl.java:199]-Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+[DEBUG]-[main]-2019-02-25 11:09:05:[ValidationXmlParser.java:99]-Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG]-[main]-2019-02-25 11:09:05:[ResourceLoaderHelper.java:47]-Trying to load META-INF/validation.xml via user class loader
+[DEBUG]-[main]-2019-02-25 11:09:05:[ResourceLoaderHelper.java:54]-Trying to load META-INF/validation.xml via TCCL
+[DEBUG]-[main]-2019-02-25 11:09:05:[ResourceLoaderHelper.java:60]-Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG]-[main]-2019-02-25 11:09:05:[ValidationXmlParser.java:106]-No META-INF/validation.xml found. Using annotation based configuration only.
+[INFO]-[Thread-11]-2019-02-25 11:09:05:[PeerAwareInstanceRegistryImpl.java:242]-Got 1 instances from neighboring DS node
+[INFO]-[Thread-11]-2019-02-25 11:09:05:[PeerAwareInstanceRegistryImpl.java:243]-Renew threshold is: 1
+[INFO]-[Thread-11]-2019-02-25 11:09:05:[PeerAwareInstanceRegistryImpl.java:254]-Changing status to UP
+[INFO]-[main]-2019-02-25 11:09:05:[StartupInfoLogger.java:57]-Started EurekaServerApplicationTests in 11.321 seconds (JVM running for 12.577)
+[INFO]-[Thread-12]-2019-02-25 11:09:05:[DefaultEurekaServerContext.java:72]-Shutting down ...
+[INFO]-[Thread-12]-2019-02-25 11:09:05:[DefaultEurekaServerContext.java:75]-Shut down
+[INFO]-[Thread-12]-2019-02-25 11:09:05:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
+[INFO]-[Thread-12]-2019-02-25 11:09:05:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient

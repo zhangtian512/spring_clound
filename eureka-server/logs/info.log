@@ -691,3 +691,161 @@ com.netflix.discovery.shared.transport.TransportException: Cannot execute reques
 [INFO]-[Thread-12]-2019-02-24 22:17:39:[DefaultEurekaServerContext.java:75]-Shut down
 [INFO]-[Thread-12]-2019-02-24 22:17:39:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
 [INFO]-[Thread-12]-2019-02-24 22:17:39:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
+[INFO]-[main]-2019-02-25 09:57:43:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[WARN]-[main]-2019-02-25 09:57:45:[ArchaiusAutoConfiguration.java:148]-No spring.application.name found, defaulting to 'application'
+[WARN]-[main]-2019-02-25 09:57:45:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 09:57:45:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 09:57:45:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 09:57:45:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]-[main]-2019-02-25 09:57:50:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[main]-2019-02-25 09:57:50:[DiscoveryClient.java:350]-Client configured to neither register nor query for data.
+[INFO]-[main]-2019-02-25 09:57:50:[DiscoveryClient.java:363]-Discovery Client initialized at timestamp 1551059870520 with initial instances count: 0
+[INFO]-[main]-2019-02-25 09:57:50:[DefaultEurekaServerContext.java:63]-Initializing ...
+[INFO]-[main]-2019-02-25 09:57:50:[PeerEurekaNodes.java:188]-Adding new peer nodes [http://localhost:-1/eureka/]
+[INFO]-[main]-2019-02-25 09:57:52:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 09:57:52:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 09:57:52:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[main]-2019-02-25 09:57:52:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[INFO]-[main]-2019-02-25 09:57:52:[PeerEurekaNodes.java:110]-Replica node URL:  http://localhost:-1/eureka/
+[INFO]-[main]-2019-02-25 09:57:52:[AbstractInstanceRegistry.java:152]-Finished initializing remote region registries. All known remote regions: []
+[INFO]-[main]-2019-02-25 09:57:52:[DefaultEurekaServerContext.java:66]-Initialized
+[INFO]-[Thread-11]-2019-02-25 09:57:53:[PeerAwareInstanceRegistryImpl.java:242]-Got 1 instances from neighboring DS node
+[INFO]-[Thread-11]-2019-02-25 09:57:53:[PeerAwareInstanceRegistryImpl.java:243]-Renew threshold is: 1
+[INFO]-[Thread-11]-2019-02-25 09:57:53:[PeerAwareInstanceRegistryImpl.java:254]-Changing status to UP
+[INFO]-[main]-2019-02-25 09:57:53:[StartupInfoLogger.java:57]-Started EurekaServerApplicationTests in 12.537 seconds (JVM running for 13.939)
+[INFO]-[Thread-12]-2019-02-25 09:57:53:[DefaultEurekaServerContext.java:72]-Shutting down ...
+[INFO]-[Thread-12]-2019-02-25 09:57:53:[DefaultEurekaServerContext.java:75]-Shut down
+[INFO]-[Thread-12]-2019-02-25 09:57:53:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
+[INFO]-[Thread-12]-2019-02-25 09:57:53:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
+[INFO]-[main]-2019-02-25 10:02:19:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[INFO]-[main]-2019-02-25 10:02:20:[DirectJDKLog.java:180]-Initializing ProtocolHandler ["http-nio-8881"]
+[INFO]-[main]-2019-02-25 10:02:20:[DirectJDKLog.java:180]-Starting service [Tomcat]
+[INFO]-[main]-2019-02-25 10:02:20:[DirectJDKLog.java:180]-Starting Servlet Engine: Apache Tomcat/8.5.37
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:20:[DirectJDKLog.java:180]-Initializing Spring embedded WebApplicationContext
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:21:[WebApplicationImpl.java:815]-Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:21:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:21:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:21:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:21:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[WARN]-[main]-2019-02-25 10:02:22:[ArchaiusAutoConfiguration.java:148]-No spring.application.name found, defaulting to 'application'
+[WARN]-[main]-2019-02-25 10:02:22:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:02:22:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 10:02:22:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:02:22:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryClient.java:350]-Client configured to neither register nor query for data.
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryClient.java:363]-Discovery Client initialized at timestamp 1551060145183 with initial instances count: 0
+[INFO]-[main]-2019-02-25 10:02:25:[DefaultEurekaServerContext.java:63]-Initializing ...
+[INFO]-[main]-2019-02-25 10:02:25:[PeerEurekaNodes.java:188]-Adding new peer nodes [http://localhost:8881/eureka/]
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[main]-2019-02-25 10:02:25:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[INFO]-[main]-2019-02-25 10:02:25:[PeerEurekaNodes.java:110]-Replica node URL:  http://localhost:8881/eureka/
+[INFO]-[main]-2019-02-25 10:02:25:[AbstractInstanceRegistry.java:152]-Finished initializing remote region registries. All known remote regions: []
+[INFO]-[main]-2019-02-25 10:02:25:[DefaultEurekaServerContext.java:66]-Initialized
+[INFO]-[Thread-31]-2019-02-25 10:02:26:[PeerAwareInstanceRegistryImpl.java:242]-Got 1 instances from neighboring DS node
+[INFO]-[Thread-31]-2019-02-25 10:02:26:[PeerAwareInstanceRegistryImpl.java:243]-Renew threshold is: 1
+[INFO]-[Thread-31]-2019-02-25 10:02:26:[PeerAwareInstanceRegistryImpl.java:254]-Changing status to UP
+[INFO]-[main]-2019-02-25 10:02:26:[DirectJDKLog.java:180]-Starting ProtocolHandler ["http-nio-8881"]
+[INFO]-[main]-2019-02-25 10:02:26:[DirectJDKLog.java:180]-Using a shared selector for servlet write/read
+[INFO]-[main]-2019-02-25 10:02:26:[StartupInfoLogger.java:57]-Started EurekaServerApplication in 9.832 seconds (JVM running for 12.591)
+[INFO]-[main]-2019-02-25 10:02:26:[EurekaServerApplication.java:17]-+++++++++++++EurekaServerApplication+++++++++++++++
+[INFO]-[main]-2019-02-25 10:02:52:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[INFO]-[main]-2019-02-25 10:02:53:[DirectJDKLog.java:180]-Initializing ProtocolHandler ["http-nio-9000"]
+[INFO]-[main]-2019-02-25 10:02:53:[DirectJDKLog.java:180]-Starting service [Tomcat]
+[INFO]-[main]-2019-02-25 10:02:53:[DirectJDKLog.java:180]-Starting Servlet Engine: Apache Tomcat/8.5.37
+[INFO]-[localhost-startStop-1]-2019-02-25 10:02:53:[DirectJDKLog.java:180]-Initializing Spring embedded WebApplicationContext
+[WARN]-[main]-2019-02-25 10:02:54:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:02:54:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 10:02:54:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:02:54:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]-[main]-2019-02-25 10:02:57:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[INFO]-[main]-2019-02-25 10:02:58:[ConfigClusterResolver.java:43]-Resolving eureka endpoints via configuration
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:929]-Disable delta property : false
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:930]-Single vip registry refresh property : null
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:931]-Force full registry fetch : false
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:932]-Application is null : false
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:933]-Registered Applications size is zero : true
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:935]-Application version is -1: true
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:1018]-Getting all instance registry info from the eureka server
+[INFO]-[http-nio-8881-exec-1]-2019-02-25 10:02:58:[DirectJDKLog.java:180]-Initializing Spring FrameworkServlet 'dispatcherServlet'
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:1027]-The response status is 200
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:1253]-Starting heartbeat executor: renew interval is: 30
+[INFO]-[main]-2019-02-25 10:02:58:[InstanceInfoReplicator.java:59]-InstanceInfoReplicator onDemand update allowed rate per min is 4
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:434]-Discovery Client initialized at timestamp 1551060178976 with initial instances count: 0
+[INFO]-[main]-2019-02-25 10:02:58:[DiscoveryClient.java:1288]-Saw local status change event StatusChangeEvent [timestamp=1551060178992, current=UP, previous=STARTING]
+[INFO]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:58:[DiscoveryClient.java:804]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000: registering service...
+[INFO]-[main]-2019-02-25 10:02:59:[DirectJDKLog.java:180]-Starting ProtocolHandler ["http-nio-9000"]
+[INFO]-[main]-2019-02-25 10:02:59:[DirectJDKLog.java:180]-Using a shared selector for servlet write/read
+[INFO]-[main]-2019-02-25 10:02:59:[StartupInfoLogger.java:57]-Started ConfigServerApplication in 10.112 seconds (JVM running for 11.936)
+[INFO]-[main]-2019-02-25 10:02:59:[ConfigServerApplication.java:19]-++++++++++ConfigServerApplication+++++++++++++
+[INFO]-[http-nio-8881-exec-2]-2019-02-25 10:02:59:[AbstractInstanceRegistry.java:267]-Registered instance CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000 with status UP (replication=false)
+[INFO]-[DiscoveryClient-InstanceInfoReplicator-0]-2019-02-25 10:02:59:[DiscoveryClient.java:813]-DiscoveryClient_CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000 - registration status: 204
+[INFO]-[http-nio-8881-exec-3]-2019-02-25 10:02:59:[AbstractInstanceRegistry.java:267]-Registered instance CONFIG-CENTER/XA00255_NB.novatek.com.tw:config-center:9000 with status UP (replication=true)
+[INFO]-[Eureka-EvictionTimer]-2019-02-25 10:03:26:[AbstractInstanceRegistry.java:1254]-Running the evict task with compensationTime 0ms
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:929]-Disable delta property : false
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:930]-Single vip registry refresh property : null
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:931]-Force full registry fetch : false
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:932]-Application is null : false
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:933]-Registered Applications size is zero : true
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:935]-Application version is -1: false
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:1018]-Getting all instance registry info from the eureka server
+[INFO]-[DiscoveryClient-CacheRefreshExecutor-0]-2019-02-25 10:03:28:[DiscoveryClient.java:1027]-The response status is 200
+[INFO]-[http-nio-9000-exec-1]-2019-02-25 10:03:29:[DirectJDKLog.java:180]-Initializing Spring FrameworkServlet 'dispatcherServlet'
+[INFO]-[main]-2019-02-25 10:39:02:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[WARN]-[main]-2019-02-25 10:39:04:[ArchaiusAutoConfiguration.java:148]-No spring.application.name found, defaulting to 'application'
+[WARN]-[main]-2019-02-25 10:39:04:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:39:04:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 10:39:04:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 10:39:04:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]-[main]-2019-02-25 10:39:08:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[main]-2019-02-25 10:39:08:[DiscoveryClient.java:350]-Client configured to neither register nor query for data.
+[INFO]-[main]-2019-02-25 10:39:08:[DiscoveryClient.java:363]-Discovery Client initialized at timestamp 1551062348280 with initial instances count: 0
+[INFO]-[main]-2019-02-25 10:39:08:[DefaultEurekaServerContext.java:63]-Initializing ...
+[INFO]-[main]-2019-02-25 10:39:08:[PeerEurekaNodes.java:188]-Adding new peer nodes [http://47.106.206.255:-1/eureka/]
+[INFO]-[main]-2019-02-25 10:39:09:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:39:09:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 10:39:09:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[main]-2019-02-25 10:39:09:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[INFO]-[main]-2019-02-25 10:39:09:[PeerEurekaNodes.java:110]-Replica node URL:  http://47.106.206.255:-1/eureka/
+[INFO]-[main]-2019-02-25 10:39:09:[AbstractInstanceRegistry.java:152]-Finished initializing remote region registries. All known remote regions: []
+[INFO]-[main]-2019-02-25 10:39:09:[DefaultEurekaServerContext.java:66]-Initialized
+[INFO]-[Thread-11]-2019-02-25 10:39:10:[PeerAwareInstanceRegistryImpl.java:242]-Got 1 instances from neighboring DS node
+[INFO]-[Thread-11]-2019-02-25 10:39:10:[PeerAwareInstanceRegistryImpl.java:243]-Renew threshold is: 1
+[INFO]-[Thread-11]-2019-02-25 10:39:10:[PeerAwareInstanceRegistryImpl.java:254]-Changing status to UP
+[INFO]-[main]-2019-02-25 10:39:10:[StartupInfoLogger.java:57]-Started EurekaServerApplicationTests in 11.274 seconds (JVM running for 12.463)
+[INFO]-[Thread-12]-2019-02-25 10:39:10:[DefaultEurekaServerContext.java:72]-Shutting down ...
+[INFO]-[Thread-12]-2019-02-25 10:39:10:[DefaultEurekaServerContext.java:75]-Shut down
+[INFO]-[Thread-12]-2019-02-25 10:39:10:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
+[INFO]-[Thread-12]-2019-02-25 10:39:10:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
+[INFO]-[main]-2019-02-25 11:08:57:[SpringApplication.java:593]-No active profile set, falling back to default profiles: default
+[WARN]-[main]-2019-02-25 11:08:59:[ArchaiusAutoConfiguration.java:148]-No spring.application.name found, defaulting to 'application'
+[WARN]-[main]-2019-02-25 11:08:59:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 11:08:59:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]-[main]-2019-02-25 11:08:59:[URLConfigurationSource.java:121]-No URLs will be polled as dynamic configuration sources.
+[INFO]-[main]-2019-02-25 11:08:59:[URLConfigurationSource.java:122]-To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]-[main]-2019-02-25 11:09:03:[DiscoveryClient.java:347]-Initializing Eureka in region us-east-1
+[INFO]-[main]-2019-02-25 11:09:03:[DiscoveryClient.java:350]-Client configured to neither register nor query for data.
+[INFO]-[main]-2019-02-25 11:09:03:[DiscoveryClient.java:363]-Discovery Client initialized at timestamp 1551064143199 with initial instances count: 0
+[INFO]-[main]-2019-02-25 11:09:03:[DefaultEurekaServerContext.java:63]-Initializing ...
+[INFO]-[main]-2019-02-25 11:09:03:[PeerEurekaNodes.java:188]-Adding new peer nodes [http://47.106.206.255:-1/eureka/]
+[INFO]-[main]-2019-02-25 11:09:04:[DiscoveryJerseyProvider.java:70]-Using JSON encoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 11:09:04:[DiscoveryJerseyProvider.java:71]-Using JSON decoding codec LegacyJacksonJson
+[INFO]-[main]-2019-02-25 11:09:04:[DiscoveryJerseyProvider.java:80]-Using XML encoding codec XStreamXml
+[INFO]-[main]-2019-02-25 11:09:04:[DiscoveryJerseyProvider.java:81]-Using XML decoding codec XStreamXml
+[INFO]-[main]-2019-02-25 11:09:04:[PeerEurekaNodes.java:110]-Replica node URL:  http://47.106.206.255:-1/eureka/
+[INFO]-[main]-2019-02-25 11:09:04:[AbstractInstanceRegistry.java:152]-Finished initializing remote region registries. All known remote regions: []
+[INFO]-[main]-2019-02-25 11:09:04:[DefaultEurekaServerContext.java:66]-Initialized
+[INFO]-[Thread-11]-2019-02-25 11:09:05:[PeerAwareInstanceRegistryImpl.java:242]-Got 1 instances from neighboring DS node
+[INFO]-[Thread-11]-2019-02-25 11:09:05:[PeerAwareInstanceRegistryImpl.java:243]-Renew threshold is: 1
+[INFO]-[Thread-11]-2019-02-25 11:09:05:[PeerAwareInstanceRegistryImpl.java:254]-Changing status to UP
+[INFO]-[main]-2019-02-25 11:09:05:[StartupInfoLogger.java:57]-Started EurekaServerApplicationTests in 11.321 seconds (JVM running for 12.577)
+[INFO]-[Thread-12]-2019-02-25 11:09:05:[DefaultEurekaServerContext.java:72]-Shutting down ...
+[INFO]-[Thread-12]-2019-02-25 11:09:05:[DefaultEurekaServerContext.java:75]-Shut down
+[INFO]-[Thread-12]-2019-02-25 11:09:05:[DiscoveryClient.java:861]-Shutting down DiscoveryClient ...
+[INFO]-[Thread-12]-2019-02-25 11:09:05:[DiscoveryClient.java:882]-Completed shut down of DiscoveryClient
